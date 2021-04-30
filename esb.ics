@@ -1,8 +1,7 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 SUMMARY:Empire State Building Lights
-X-WR-CALDESC:Show what lights display will be shown on the Empire State Bu
- ilding
+X-WR-CALDESC:Show what light display is shown on the Empire State Building
 X-WR-TIMEZONE:UTC
 BEGIN:VEVENT
 SUMMARY:ESB: Signature White
