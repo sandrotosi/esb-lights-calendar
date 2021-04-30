@@ -29,5 +29,5 @@ jobs:
           git config --local user.name github-actions
           git config --local user.email github-actions@users.noreply.github.com
           git add --all
-          git commit -a -m "Update ESB Lights data"
+          git diff-index --quiet HEAD || git commit -a -m "Update ESB Lights data"
           git push https://${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git
