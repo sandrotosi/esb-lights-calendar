@@ -22,6 +22,7 @@ MONTHS = [(TODAY.year, TODAY.month), calendar._nextmonth(TODAY.year, TODAY.month
 ical = Calendar()
 ical.add('summary', 'Empire State Building Lights')
 ical.add('version', '2.0')
+ical.add('X-WR-CALNAME', 'Empire State Building Lights')
 ical.add('X-WR-TIMEZONE', 'UTC')
 ical.add('X-WR-CALDESC', 'Show what light display is shown on the Empire State Building')
 
