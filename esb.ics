@@ -2,6 +2,7 @@ BEGIN:VCALENDAR
 VERSION:2.0
 SUMMARY:Empire State Building Lights
 X-WR-CALDESC:Show what light display is shown on the Empire State Building
+X-WR-CALNAME:Empire State Building Lights
 X-WR-TIMEZONE:UTC
 BEGIN:VEVENT
 SUMMARY:ESB: Celebratory Lighting
