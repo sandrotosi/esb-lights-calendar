@@ -3,7 +3,7 @@
 version: 2
 updates:
   # Enable version updates for pip (Python)
-  - package-ecosystem: "pip-compile"
+  - package-ecosystem: "pip"
     directory: "/"
     schedule:
       interval: "daily"
