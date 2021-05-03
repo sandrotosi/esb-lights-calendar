@@ -20,11 +20,15 @@ TODAY = datetime.date.today()
 MONTHS = [(TODAY.year, TODAY.month), calendar._nextmonth(TODAY.year, TODAY.month)]
 
 ical = Calendar()
-ical.add('summary', 'Empire State Building Lights')
-ical.add('version', '2.0')
+ical.add('VERSION', '2.0')
+ical.add('URL', 'https://sandrotosi.github.io/esb-lights-calendar/esb.ics')
+ical.add('NAME', 'Empire State Building Lights')
 ical.add('X-WR-CALNAME', 'Empire State Building Lights')
-ical.add('X-WR-TIMEZONE', 'UTC')
+ical.add('DESCRIPTION', 'Show what light display is shown on the Empire State Building')
 ical.add('X-WR-CALDESC', 'Show what light display is shown on the Empire State Building')
+ical.add('X-WR-TIMEZONE', 'UTC')
+ical.add('REFRESH-INTERVAL;VALUE=DURATION', 'P1H')
+ical.add('X-PUBLISHED-TTL', 'PT6H')
 
 for year, month in MONTHS:
     month_text = f"{year}{month:02d}"
