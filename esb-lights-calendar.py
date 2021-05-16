@@ -48,7 +48,7 @@ for year, month in MONTHS:
 
     # save a cache of the current data, maybe we're gonna use to provide historical events, one day...
     with open(f"data/{month_text}.json", 'w') as f:
-        json.dump(month_colors, f)
+        json.dump(month_colors, f, indent=2)
 
     for calendar_day in calendar.Calendar().itermonthdays(year=year, month=month):
         if calendar_day == 0:
