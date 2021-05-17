@@ -23,16 +23,58 @@
       "description": "In Honor of Food Allergy Awareness Week"
     }
   ],
+  "12": [
+    {
+      "color": "Green",
+      "description": "In honor of Eid Al-Fitr"
+    }
+  ],
+  "15": [
+    {
+      "color": "Blue And Orange",
+      "description": "In Celebration of the New York Islanders first game in the Stanley Cup Playoffs"
+    }
+  ],
   "16": [
     {
       "color": "Blue, White And Yellow",
       "description": "In Partnership with the Fire Department of New York City in honor of EMS Week"
     }
   ],
+  "17": [
+    {
+      "color": "Filming",
+      "description": null
+    }
+  ],
   "18": [
     {
       "color": "Violet/White",
       "description": "New York University's 2021 Commencement"
+    }
+  ],
+  "28": [
+    {
+      "color": "Red, White And Blue",
+      "description": "In honor of Memorial Day"
+    }
+  ],
+  "29": [
+    {
+      "color": "Red, White And Blue",
+      "description": "In honor of Memorial Day"
+    }
+  ],
+  "30": [
+    {
+      "color": "Red, White And Blue",
+      "description": "In honor of Memorial Day"
+    }
+  ],
+  "31": [
+    {
+      "color": "Red, White And Blue",
+      "description": "In honor of Memorial Day"
     }
   ]
 }

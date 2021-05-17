@@ -42,7 +42,10 @@ for year, month in MONTHS:
     for custom_colors in soup.find_all(class_='lse'):
         day = int(custom_colors.find(class_='day--day').text)
         color = custom_colors.find(class_='name').text.title()
-        descr = custom_colors.find(class_='field_description').text.strip()
+        # sometimes the description can be empty
+        descr = custom_colors.find(class_='field_description')
+        if descr:
+            descr = descr.text.strip()
 
         month_colors[day].append({'color': color, 'description': descr})
 
