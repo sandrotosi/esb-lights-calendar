@@ -1,10 +1,6 @@
 {
   "2": [
     {
-      "color": "Red And White",
-      "description": "In Celebration of FC Bayern Munich's Historic Season"
-    },
-    {
       "color": "Blue And Orange",
       "description": "In Celebration of the New York Knicks' NBA Home Playoff Game"
     }
@@ -13,6 +9,12 @@
     {
       "color": "Orange",
       "description": "In Partnership with Everytown for Gun Safety Support Fund in honor of National Gun Violence Awareness Day"
+    }
+  ],
+  "9": [
+    {
+      "color": "Red And White",
+      "description": "In Celebration of FC Bayern Munich's Historic Season"
     }
   ],
   "13": [
