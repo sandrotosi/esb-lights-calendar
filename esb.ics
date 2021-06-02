@@ -9,11 +9,11 @@ X-WR-CALDESC:Show what light display is shown on the Empire State Building
 X-WR-CALNAME:Empire State Building Lights
 X-WR-TIMEZONE:UTC
 BEGIN:VEVENT
-SUMMARY:ESB: Signature White
+SUMMARY:ESB: Black & White
 DTSTART;VALUE=DATE:20210601
 SEQUENCE:0
 CLASS:PUBLIC
-DESCRIPTION:
+DESCRIPTION:In Celebration of the Brooklyn Nets' Playoff Game
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 URL:https://www.esbnyc.com/about/tower-lights/calendar/202106
