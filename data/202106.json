@@ -37,8 +37,14 @@
   ],
   "21": [
     {
-      "color": "Red, White And Blue",
+      "color": "Blue, White And Gold",
       "description": "In Honor of the Primary Elections"
+    }
+  ],
+  "27": [
+    {
+      "color": "Rainbow Lights",
+      "description": "In honor of NYC Pride"
     }
   ]
 }

@@ -210,7 +210,7 @@ TRANSP:TRANSPARENT
 URL:https://www.esbnyc.com/about/tower-lights/calendar/202106
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ESB: Red\, White And Blue
+SUMMARY:ESB: Blue\, White And Gold
 DTSTART;VALUE=DATE:20210621
 SEQUENCE:0
 CLASS:PUBLIC
@@ -270,11 +270,11 @@ TRANSP:TRANSPARENT
 URL:https://www.esbnyc.com/about/tower-lights/calendar/202106
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ESB: Signature White
+SUMMARY:ESB: Rainbow Lights
 DTSTART;VALUE=DATE:20210627
 SEQUENCE:0
 CLASS:PUBLIC
-DESCRIPTION:
+DESCRIPTION:In honor of NYC Pride
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 URL:https://www.esbnyc.com/about/tower-lights/calendar/202106
