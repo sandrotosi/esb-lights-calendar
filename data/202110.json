@@ -9,12 +9,22 @@
     {
       "color": "Blue And Red",
       "description": "In Partnership with the New York Police and Fire Widows' & Children's Benefit Fund in Honor of Answer the Call Day"
+    },
+    {
+      "color": "Blue",
+      "description": "In Honor of the New York Police Foundation's 50th Anniversary Gala"
     }
   ],
   "11": [
     {
       "color": "Red, White, And Green",
       "description": "In Honor of Columbus Day"
+    }
+  ],
+  "28": [
+    {
+      "color": "Yellow And Blue",
+      "description": "In Partnership with Afterschool Alliance in Honor of Lights on Afterschool"
     }
   ],
   "31": [

@@ -385,6 +385,17 @@ TRANSP:TRANSPARENT
 URL:https://www.esbnyc.com/about/tower-lights/calendar/202110
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:ESB: Blue
+DTSTART;VALUE=DATE:20211007
+SEQUENCE:0
+CLASS:PUBLIC
+DESCRIPTION:In Honor of the New York Police Foundation's 50th Anniversary 
+ Gala
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.esbnyc.com/about/tower-lights/calendar/202110
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:ESB: Signature White
 DTSTART;VALUE=DATE:20211008
 SEQUENCE:0
@@ -585,11 +596,12 @@ TRANSP:TRANSPARENT
 URL:https://www.esbnyc.com/about/tower-lights/calendar/202110
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ESB: Signature White
+SUMMARY:ESB: Yellow And Blue
 DTSTART;VALUE=DATE:20211028
 SEQUENCE:0
 CLASS:PUBLIC
-DESCRIPTION:
+DESCRIPTION:In Partnership with Afterschool Alliance in Honor of Lights on
+  Afterschool
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 URL:https://www.esbnyc.com/about/tower-lights/calendar/202110
