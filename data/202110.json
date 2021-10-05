@@ -15,10 +15,34 @@
       "description": "In Honor of the New York Police Foundation's 50th Anniversary Gala"
     }
   ],
+  "8": [
+    {
+      "color": "Red",
+      "description": "In Celebration of NYC Comic-Con"
+    }
+  ],
   "11": [
     {
       "color": "Red, White, And Green",
       "description": "In Honor of Columbus Day"
+    }
+  ],
+  "13": [
+    {
+      "color": "Cyan And Fuschia",
+      "description": "In Honor of Bravo TV's Project Runway Season 10 Premiere"
+    }
+  ],
+  "20": [
+    {
+      "color": "Green",
+      "description": "In Honor of Robin Hood Foundation's Annual Benefit"
+    }
+  ],
+  "26": [
+    {
+      "color": "Red And White",
+      "description": "In Honor of the Annual Empire State Building Run-Up Presented by Turkish Airlines"
     }
   ],
   "28": [
