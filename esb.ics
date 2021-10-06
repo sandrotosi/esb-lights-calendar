@@ -142,11 +142,11 @@ TRANSP:TRANSPARENT
 URL:https://www.esbnyc.com/about/tower-lights/calendar/202110
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ESB: Cyan And Fuschia
+SUMMARY:ESB: Signature White
 DTSTART;VALUE=DATE:20211013
 SEQUENCE:0
 CLASS:PUBLIC
-DESCRIPTION:In Honor of Bravo TV's Project Runway Season 10 Premiere
+DESCRIPTION:
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 URL:https://www.esbnyc.com/about/tower-lights/calendar/202110
