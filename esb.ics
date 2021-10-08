@@ -60,18 +60,8 @@ TRANSP:TRANSPARENT
 URL:https://www.esbnyc.com/about/tower-lights/calendar/202110
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ESB: Signature White
-DTSTART;VALUE=DATE:20211006
-SEQUENCE:0
-CLASS:PUBLIC
-DESCRIPTION:
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-URL:https://www.esbnyc.com/about/tower-lights/calendar/202110
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:ESB: Blue And Red
-DTSTART;VALUE=DATE:20211007
+DTSTART;VALUE=DATE:20211006
 SEQUENCE:0
 CLASS:PUBLIC
 DESCRIPTION:In Partnership with the New York Police and Fire Widows' & Chi
@@ -126,7 +116,7 @@ SUMMARY:ESB: Red\, White\, And Green
 DTSTART;VALUE=DATE:20211011
 SEQUENCE:0
 CLASS:PUBLIC
-DESCRIPTION:In Honor of Columbus Day
+DESCRIPTION:In Honor of Italian Heritage Day / Indigenous People’s Day
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 URL:https://www.esbnyc.com/about/tower-lights/calendar/202110
