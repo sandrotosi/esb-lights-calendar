@@ -136,17 +136,17 @@ SUMMARY:ESB: Cyan And Fuschia
 DTSTART;VALUE=DATE:20211013
 SEQUENCE:0
 CLASS:PUBLIC
-DESCRIPTION:In Honor of Bravo TV's Project Runway Season 10 Premiere
+DESCRIPTION:In honor of Bravo’s Project Runway Season 19 Premiere
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 URL:https://www.esbnyc.com/about/tower-lights/calendar/202110
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ESB: Signature White
+SUMMARY:ESB: Red\, White\, And Blue From 7:30 Pm To 8:30 Pm
 DTSTART;VALUE=DATE:20211014
 SEQUENCE:0
 CLASS:PUBLIC
-DESCRIPTION:
+DESCRIPTION:In Celebration of the New York Rangers' Home Opener
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 URL:https://www.esbnyc.com/about/tower-lights/calendar/202110
@@ -192,11 +192,12 @@ TRANSP:TRANSPARENT
 URL:https://www.esbnyc.com/about/tower-lights/calendar/202110
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ESB: Signature White
+SUMMARY:ESB: Blue And Orange
 DTSTART;VALUE=DATE:20211019
 SEQUENCE:0
 CLASS:PUBLIC
-DESCRIPTION:
+DESCRIPTION:In Celebration of the New York Knicks 75th Anniversary Season 
+ and Opening Night
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 URL:https://www.esbnyc.com/about/tower-lights/calendar/202110
