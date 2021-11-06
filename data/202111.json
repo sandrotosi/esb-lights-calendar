@@ -17,6 +17,12 @@
       "description": "In Partnership with Clifford the Big Red Dog, Scholastic and Best Friends Animal Society in Celebration of the Friendship Between People and Animals"
     }
   ],
+  "8": [
+    {
+      "color": "Blue, White And Red",
+      "description": "In Celebration of the Return of International Travel in Partnership with British Airways"
+    }
+  ],
   "9": [
     {
       "color": "Red And Green",
@@ -27,6 +33,18 @@
     {
       "color": "Red, White And Blue",
       "description": "In Honor of Veteran's Day"
+    }
+  ],
+  "25": [
+    {
+      "color": "Fall Colors",
+      "description": "In Celebration of Thanksgiving"
+    }
+  ],
+  "26": [
+    {
+      "color": "Fall Colors",
+      "description": "In Celebration of Thanksgiving"
     }
   ]
 }
