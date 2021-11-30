@@ -296,6 +296,17 @@ TRANSP:TRANSPARENT
 URL:https://www.esbnyc.com/about/tower-lights/calendar/202111
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:ESB: Blue\, White And Red
+DTSTART;VALUE=DATE:20211129
+SEQUENCE:0
+CLASS:PUBLIC
+DESCRIPTION:In Honor of New York Celebrating Josephine Baker's Entry into 
+ the Pantheon in Partnership with Consulat General de France a New York
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.esbnyc.com/about/tower-lights/calendar/202111
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:ESB: Blue And White With A Flickering Candle In The Mast
 DTSTART;VALUE=DATE:20211129
 SEQUENCE:0
