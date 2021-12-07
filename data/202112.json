@@ -29,16 +29,64 @@
       "description": "In Celebration of Hanukkah"
     }
   ],
-  "6": [
+  "10": [
     {
-      "color": "Blue And White With A Flickering Candle In The Mast",
-      "description": "In Celebration of Hanukkah"
+      "color": "Cyan",
+      "description": "In Partnership with UNICEF in Honor of their 75th Anniversary"
+    }
+  ],
+  "11": [
+    {
+      "color": "Blue",
+      "description": "In Honor of Dear Evan Hansen's 5th Anniversary on Broadway"
     }
   ],
   "15": [
     {
       "color": "Blue",
       "description": "In Partnership with the Diabetes Research Institute in Honor of the Empire Ball"
+    }
+  ],
+  "24": [
+    {
+      "color": "Red, Green And Red And White Candy Cane",
+      "description": "In Celebration of Christmas"
+    }
+  ],
+  "25": [
+    {
+      "color": "Red, Green, And Red And White Candy Cane",
+      "description": "In Celebration of Christmas"
+    }
+  ],
+  "26": [
+    {
+      "color": "Red, Green, And Red And White Candy Cane",
+      "description": "In Celebration of Christmas"
+    }
+  ],
+  "27": [
+    {
+      "color": "Red, Green, And Red And White Candy Cane",
+      "description": "In Celebration of Christmas"
+    }
+  ],
+  "28": [
+    {
+      "color": "Red, Green, And Red And White Candy Cane",
+      "description": "In Celebration of Christmas"
+    }
+  ],
+  "29": [
+    {
+      "color": "Red, Green, And Red And White Candy Cane",
+      "description": "In Celebration of Christmas"
+    }
+  ],
+  "30": [
+    {
+      "color": "Red, Green, And Red And White Candy Cane",
+      "description": "In Celebration of Christmas"
     }
   ]
 }
