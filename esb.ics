@@ -79,11 +79,12 @@ TRANSP:TRANSPARENT
 URL:https://www.esbnyc.com/about/tower-lights/calendar/202112
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ESB: Signature White
+SUMMARY:ESB: Dynamic Holiday Music-To-Light Show Featuring  “Merry Chris
+ tmas” By Ed Sheeran Feat. Elton John
 DTSTART;VALUE=DATE:20211208
 SEQUENCE:0
 CLASS:PUBLIC
-DESCRIPTION:
+DESCRIPTION:8:00 pm
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 URL:https://www.esbnyc.com/about/tower-lights/calendar/202112
