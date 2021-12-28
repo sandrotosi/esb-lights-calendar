@@ -291,6 +291,16 @@ TRANSP:TRANSPARENT
 URL:https://www.esbnyc.com/about/tower-lights/calendar/202112
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:ESB: Split Lights: Orange And Maroon & Red And Gold
+DTSTART;VALUE=DATE:20211228
+SEQUENCE:0
+CLASS:PUBLIC
+DESCRIPTION:In Celebration of the New Era Pinstripe Bowl
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.esbnyc.com/about/tower-lights/calendar/202112
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:ESB: Red\, Green\, And Red And White Candy Cane
 DTSTART;VALUE=DATE:20211229
 SEQUENCE:0
@@ -311,11 +321,11 @@ TRANSP:TRANSPARENT
 URL:https://www.esbnyc.com/about/tower-lights/calendar/202112
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ESB: Signature White
+SUMMARY:ESB: Festive Multi-Color Sparkling
 DTSTART;VALUE=DATE:20211231
 SEQUENCE:0
 CLASS:PUBLIC
-DESCRIPTION:
+DESCRIPTION:In Celebration of New Year's Eve
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 URL:https://www.esbnyc.com/about/tower-lights/calendar/202112
@@ -441,11 +451,11 @@ TRANSP:TRANSPARENT
 URL:https://www.esbnyc.com/about/tower-lights/calendar/202201
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ESB: Signature White
+SUMMARY:ESB: Orange & White
 DTSTART;VALUE=DATE:20220113
 SEQUENCE:0
 CLASS:PUBLIC
-DESCRIPTION:
+DESCRIPTION:In Celebration of NBC TODAY Show's 70th Anniversary
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 URL:https://www.esbnyc.com/about/tower-lights/calendar/202201

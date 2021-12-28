@@ -87,6 +87,10 @@
     {
       "color": "Red, Green, And Red And White Candy Cane",
       "description": "In Celebration of Christmas"
+    },
+    {
+      "color": "Split Lights: Orange And Maroon & Red And Gold",
+      "description": "In Celebration of the New Era Pinstripe Bowl"
     }
   ],
   "29": [
@@ -99,6 +103,12 @@
     {
       "color": "Red, Green, And Red And White Candy Cane",
       "description": "In Celebration of Christmas"
+    }
+  ],
+  "31": [
+    {
+      "color": "Festive Multi-Color Sparkling",
+      "description": "In Celebration of New Year's Eve"
     }
   ]
 }
