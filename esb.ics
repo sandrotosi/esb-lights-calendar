@@ -210,17 +210,6 @@ TRANSP:TRANSPARENT
 URL:https://www.esbnyc.com/about/tower-lights/calendar/202202
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ESB: Blue & Green
-DTSTART;VALUE=DATE:20220221
-SEQUENCE:0
-CLASS:PUBLIC
-DESCRIPTION:In Honor of NEDAwareness Week in Partnership with the National
-  Eating Disorders Association
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-URL:https://www.esbnyc.com/about/tower-lights/calendar/202202
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:ESB: Red\, White And Blue
 DTSTART;VALUE=DATE:20220221
 SEQUENCE:0
@@ -231,11 +220,12 @@ TRANSP:TRANSPARENT
 URL:https://www.esbnyc.com/about/tower-lights/calendar/202202
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ESB: Signature White
+SUMMARY:ESB: Blue & Green
 DTSTART;VALUE=DATE:20220222
 SEQUENCE:0
 CLASS:PUBLIC
-DESCRIPTION:
+DESCRIPTION:In Honor of NEDAwareness Week in Partnership with the National
+  Eating Disorders Association
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 URL:https://www.esbnyc.com/about/tower-lights/calendar/202202
