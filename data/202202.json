@@ -35,10 +35,22 @@
       "description": "In Honor of NEDAwareness Week in Partnership with the National Eating Disorders Association"
     }
   ],
+  "23": [
+    {
+      "color": "Navy Blue, White And Orange",
+      "description": "Private Lighting"
+    }
+  ],
   "25": [
     {
       "color": "Black, Red And Green",
       "description": "In Honor of Black History Month"
+    }
+  ],
+  "28": [
+    {
+      "color": "Green, Purple, Blue, Pink",
+      "description": "In Partnership with Rocket Pharmaceuticals in Honor of Rare Disease Day"
     }
   ]
 }
