@@ -252,21 +252,21 @@ TRANSP:TRANSPARENT
 URL:https://www.esbnyc.com/about/tower-lights/calendar/202202
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ESB: Black\, Red And Green
+SUMMARY:ESB: Blue And Yellow
 DTSTART;VALUE=DATE:20220225
 SEQUENCE:0
 CLASS:PUBLIC
-DESCRIPTION:In Honor of Black History Month
+DESCRIPTION:In the colors of the Ukrainian flag
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 URL:https://www.esbnyc.com/about/tower-lights/calendar/202202
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ESB: Signature White
+SUMMARY:ESB: Green\, Black\, And Red
 DTSTART;VALUE=DATE:20220226
 SEQUENCE:0
 CLASS:PUBLIC
-DESCRIPTION:
+DESCRIPTION:In Honor of Black History Month
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 URL:https://www.esbnyc.com/about/tower-lights/calendar/202202
