@@ -4,5 +4,23 @@
       "color": "Orange",
       "description": "In Celebration of the 2022 WNBA Draft"
     }
+  ],
+  "16": [
+    {
+      "color": "Pastels",
+      "description": "In Celebration of Easter"
+    }
+  ],
+  "17": [
+    {
+      "color": "Pastels",
+      "description": "In Celebration of Easter"
+    }
+  ],
+  "22": [
+    {
+      "color": "Green",
+      "description": "In Celebration of Earth Day"
+    }
   ]
 }
