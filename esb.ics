@@ -444,31 +444,31 @@ TRANSP:TRANSPARENT
 URL:https://www.esbnyc.com/about/tower-lights/calendar/202204
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ESB: Signature White
+SUMMARY:ESB: Shimmering Blue And White Stripes - Sunset - 9:30 Pm
 DTSTART;VALUE=DATE:20220413
 SEQUENCE:0
 CLASS:PUBLIC
-DESCRIPTION:
+DESCRIPTION:In Honor of Garden of Dreams Foundation's Annual Talent Show
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.esbnyc.com/about/tower-lights/calendar/202204
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ESB: Blue & Orange – 9:30 – 2:00 Am
+DTSTART;VALUE=DATE:20220414
+SEQUENCE:0
+CLASS:PUBLIC
+DESCRIPTION:In Celebration of the NY Mets’ Home Opener
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 URL:https://www.esbnyc.com/about/tower-lights/calendar/202204
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ESB: Signature White
-DTSTART;VALUE=DATE:20220414
-SEQUENCE:0
-CLASS:PUBLIC
-DESCRIPTION:
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-URL:https://www.esbnyc.com/about/tower-lights/calendar/202204
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ESB: Blue & Orange
 DTSTART;VALUE=DATE:20220415
 SEQUENCE:0
 CLASS:PUBLIC
-DESCRIPTION:In Celebration of the New York Mets' Home Opener
+DESCRIPTION:
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 URL:https://www.esbnyc.com/about/tower-lights/calendar/202204
