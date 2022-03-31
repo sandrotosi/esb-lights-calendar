@@ -444,7 +444,7 @@ TRANSP:TRANSPARENT
 URL:https://www.esbnyc.com/about/tower-lights/calendar/202204
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ESB: Shimmering Blue And White Stripes - Sunset - 9:30 Pm
+SUMMARY:ESB: Shimmering Blue And White Stripes – Sunset To 11:00 Pm
 DTSTART;VALUE=DATE:20220413
 SEQUENCE:0
 CLASS:PUBLIC
@@ -454,7 +454,7 @@ TRANSP:TRANSPARENT
 URL:https://www.esbnyc.com/about/tower-lights/calendar/202204
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ESB: Blue & Orange – 9:30 – 2:00 Am
+SUMMARY:ESB: Blue & Orange
 DTSTART;VALUE=DATE:20220414
 SEQUENCE:0
 CLASS:PUBLIC
