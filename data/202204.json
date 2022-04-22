@@ -41,6 +41,12 @@
       "description": "In Celebration of Easter"
     }
   ],
+  "21": [
+    {
+      "color": "Green Sparkle",
+      "description": "In Honor of the Launch of Empire Building Playbook"
+    }
+  ],
   "22": [
     {
       "color": "Green",
@@ -63,6 +69,12 @@
     {
       "color": "Orange",
       "description": "In Partnership with Progyny and RESOLVE in Honor of National Infertility Awareness Week"
+    }
+  ],
+  "30": [
+    {
+      "color": "Split: Puerto Rican Flag Colors & Irish Flag Colors",
+      "description": "In Honor of Taylor vs. Serrano at Madison Square Garden"
     }
   ]
 }
