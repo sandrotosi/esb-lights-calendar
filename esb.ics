@@ -19,6 +19,16 @@ TRANSP:TRANSPARENT
 URL:https://www.esbnyc.com/about/tower-lights/calendar/202205
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:ESB: Green
+DTSTART;VALUE=DATE:20220501
+SEQUENCE:0
+CLASS:PUBLIC
+DESCRIPTION:In Honor of Eid Al Fitr
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.esbnyc.com/about/tower-lights/calendar/202205
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:ESB: Signature White
 DTSTART;VALUE=DATE:20220502
 SEQUENCE:0
@@ -35,6 +45,16 @@ SEQUENCE:0
 CLASS:PUBLIC
 DESCRIPTION:In Partnership with EF Educational Tours in Celebration of Tea
  cher Appreciation Week
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.esbnyc.com/about/tower-lights/calendar/202205
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ESB: Blue And Purple
+DTSTART;VALUE=DATE:20220503
+SEQUENCE:0
+CLASS:PUBLIC
+DESCRIPTION:In Honor of Police Memorial Day
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 URL:https://www.esbnyc.com/about/tower-lights/calendar/202205

@@ -3,12 +3,20 @@
     {
       "color": "Multi-Color Sparkle",
       "description": "In Celebration of Empire State Building's 91st Anniversary"
+    },
+    {
+      "color": "Green",
+      "description": "In Honor of Eid Al Fitr"
     }
   ],
   "3": [
     {
       "color": "Magenta",
       "description": "In Partnership with EF Educational Tours in Celebration of Teacher Appreciation Week"
+    },
+    {
+      "color": "Blue And Purple",
+      "description": "In Honor of Police Memorial Day"
     }
   ],
   "8": [
