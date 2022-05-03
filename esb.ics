@@ -9,16 +9,6 @@ X-WR-CALDESC:Show what light display is shown on the Empire State Building
 X-WR-CALNAME:Empire State Building Lights
 X-WR-TIMEZONE:UTC
 BEGIN:VEVENT
-SUMMARY:ESB: Multi-Color Sparkle
-DTSTART;VALUE=DATE:20220501
-SEQUENCE:0
-CLASS:PUBLIC
-DESCRIPTION:In Celebration of Empire State Building's 91st Anniversary
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-URL:https://www.esbnyc.com/about/tower-lights/calendar/202205
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:ESB: Green
 DTSTART;VALUE=DATE:20220501
 SEQUENCE:0
@@ -29,22 +19,11 @@ TRANSP:TRANSPARENT
 URL:https://www.esbnyc.com/about/tower-lights/calendar/202205
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ESB: Signature White
+SUMMARY:ESB: Multi-Color Sparkle
 DTSTART;VALUE=DATE:20220502
 SEQUENCE:0
 CLASS:PUBLIC
-DESCRIPTION:
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-URL:https://www.esbnyc.com/about/tower-lights/calendar/202205
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ESB: Magenta
-DTSTART;VALUE=DATE:20220503
-SEQUENCE:0
-CLASS:PUBLIC
-DESCRIPTION:In Partnership with EF Educational Tours in Celebration of Tea
- cher Appreciation Week
+DESCRIPTION:In Celebration of Empire State Building's 91st Anniversary
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 URL:https://www.esbnyc.com/about/tower-lights/calendar/202205
@@ -60,11 +39,12 @@ TRANSP:TRANSPARENT
 URL:https://www.esbnyc.com/about/tower-lights/calendar/202205
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ESB: Signature White
+SUMMARY:ESB: Magenta
 DTSTART;VALUE=DATE:20220504
 SEQUENCE:0
 CLASS:PUBLIC
-DESCRIPTION:
+DESCRIPTION:In Partnership with EF Educational Tours in Celebration of Tea
+ cher Appreciation Week
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 URL:https://www.esbnyc.com/about/tower-lights/calendar/202205
