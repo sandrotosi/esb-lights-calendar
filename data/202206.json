@@ -1,1 +1,26 @@
-{}
+{
+  "3": [
+    {
+      "color": "Orange",
+      "description": "In Partnership with Everytown for Gun Safety in Honor of National Gun Violence Awareness Day"
+    }
+  ],
+  "4": [
+    {
+      "color": "Purple And Gold",
+      "description": "In Celebration of the Queen's Platinum Jubilee"
+    }
+  ],
+  "9": [
+    {
+      "color": "Blue",
+      "description": "In Honor of the New York City Police Foundation's Annual Gala"
+    }
+  ],
+  "10": [
+    {
+      "color": "Ruby Red And Rainbow",
+      "description": "In Partnership with the Stonewall Inn Gives Back Initiative in Celebration of Judy Garland's 100th Birthday"
+    }
+  ]
+}
