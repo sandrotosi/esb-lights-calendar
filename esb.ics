@@ -151,11 +151,13 @@ TRANSP:TRANSPARENT
 URL:https://www.esbnyc.com/about/tower-lights/calendar/202206
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ESB: Signature White
+SUMMARY:ESB: Tripadvisor Green
 DTSTART;VALUE=DATE:20220615
 SEQUENCE:0
 CLASS:PUBLIC
-DESCRIPTION:
+DESCRIPTION:In celebration of the Empire State Building being rated The #
+ 1 Attraction in the U.S. by the 2022 TripAdvisor Travelers’ Choice Award
+ s
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 URL:https://www.esbnyc.com/about/tower-lights/calendar/202206
