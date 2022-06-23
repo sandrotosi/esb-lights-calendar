@@ -40,5 +40,17 @@
       "color": "Green, Black And Red",
       "description": "In Honor of Juneteenth"
     }
+  ],
+  "22": [
+    {
+      "color": "Purple And Gold",
+      "description": "In Celebration of the Westminster Kennel Club Dog Show"
+    }
+  ],
+  "26": [
+    {
+      "color": "Colors Of The Inclusive Flag",
+      "description": "In Celebration of New York City Pride"
+    }
   ]
 }
