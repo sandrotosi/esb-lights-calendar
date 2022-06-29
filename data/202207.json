@@ -1,1 +1,20 @@
-{}
+{
+  "2": [
+    {
+      "color": "Red, White, And Blue",
+      "description": "In Honor of Independence Day"
+    }
+  ],
+  "3": [
+    {
+      "color": "Red, White And Blue",
+      "description": "In Honor of Independence Day"
+    }
+  ],
+  "11": [
+    {
+      "color": "Gold",
+      "description": "In Honor of the James Webb Space Telescope's First Science Images"
+    }
+  ]
+}
