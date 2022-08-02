@@ -9,11 +9,11 @@ X-WR-CALDESC:Show what light display is shown on the Empire State Building
 X-WR-CALNAME:Empire State Building Lights
 X-WR-TIMEZONE:UTC
 BEGIN:VEVENT
-SUMMARY:ESB: Signature White
+SUMMARY:ESB: Tie-Dye
 DTSTART;VALUE=DATE:20220801
 SEQUENCE:0
 CLASS:PUBLIC
-DESCRIPTION:
+DESCRIPTION:In Tribute to Jerry Garcia's 80th Birthday
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 URL:https://www.esbnyc.com/about/tower-lights/calendar/202208
