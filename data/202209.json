@@ -34,5 +34,17 @@
       "color": "Blue",
       "description": "In Memory of 9/11 in Partnership with the National September 11th Memorial & Museum"
     }
+  ],
+  "15": [
+    {
+      "color": "Red, White, Green",
+      "description": "In Celebration of Mexican Independence Day in Partnership with the Mexican Cultural Institute of New York"
+    }
+  ],
+  "24": [
+    {
+      "color": "Red",
+      "description": "In Partnership with Stevens Institute of Technology"
+    }
   ]
 }
