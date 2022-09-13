@@ -1,1 +1,26 @@
-{}
+{
+  "10": [
+    {
+      "color": "Red, White, And Green",
+      "description": "In Honor of Indigenous People's Day"
+    }
+  ],
+  "13": [
+    {
+      "color": "Blue And Orange",
+      "description": "In Celebration of the New York Islanders' Home Opener"
+    }
+  ],
+  "20": [
+    {
+      "color": "Yellow And Blue",
+      "description": "In Partnership with Afterschool Alliance in Honor of the Lights on Afterschool Campaign"
+    }
+  ],
+  "31": [
+    {
+      "color": "Spooky Led Lighting Effects Featuring Pumpkins, Witches, And Ghosts In The Mast Along With Flashing Lights",
+      "description": "In Celebration of Halloween"
+    }
+  ]
+}
