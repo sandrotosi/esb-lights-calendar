@@ -336,11 +336,12 @@ TRANSP:TRANSPARENT
 URL:https://www.esbnyc.com/about/tower-lights/calendar/202210
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ESB: Signature White
+SUMMARY:ESB: Light Pink And Dark Pink With A Scrolling Ribbon In The Mast
 DTSTART;VALUE=DATE:20221003
 SEQUENCE:0
 CLASS:PUBLIC
-DESCRIPTION:
+DESCRIPTION:In Partnership with Estee Lauder Companies' in Honor of the Br
+ east Cancer Campaign
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 URL:https://www.esbnyc.com/about/tower-lights/calendar/202210
@@ -366,11 +367,12 @@ TRANSP:TRANSPARENT
 URL:https://www.esbnyc.com/about/tower-lights/calendar/202210
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ESB: Signature White
+SUMMARY:ESB: Red And White
 DTSTART;VALUE=DATE:20221006
 SEQUENCE:0
 CLASS:PUBLIC
-DESCRIPTION:
+DESCRIPTION:In Honor of the Annual Empire State Building Run Up Sponsored 
+ by Turkish Airlines
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 URL:https://www.esbnyc.com/about/tower-lights/calendar/202210
@@ -401,6 +403,16 @@ DTSTART;VALUE=DATE:20221009
 SEQUENCE:0
 CLASS:PUBLIC
 DESCRIPTION:
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.esbnyc.com/about/tower-lights/calendar/202210
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ESB: Red\, White\, And Green
+DTSTART;VALUE=DATE:20221010
+SEQUENCE:0
+CLASS:PUBLIC
+DESCRIPTION:In Honor of Indigenous People's Day
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 URL:https://www.esbnyc.com/about/tower-lights/calendar/202210
