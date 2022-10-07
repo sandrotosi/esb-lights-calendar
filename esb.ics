@@ -111,16 +111,6 @@ TRANSP:TRANSPARENT
 URL:https://www.esbnyc.com/about/tower-lights/calendar/202210
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ESB: Red\, White\, And Green
-DTSTART;VALUE=DATE:20221010
-SEQUENCE:0
-CLASS:PUBLIC
-DESCRIPTION:In Honor of Indigenous People's Day
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-URL:https://www.esbnyc.com/about/tower-lights/calendar/202210
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:ESB: Red\, White\, And Blue
 DTSTART;VALUE=DATE:20221011
 SEQUENCE:0
