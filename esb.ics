@@ -345,11 +345,12 @@ TRANSP:TRANSPARENT
 URL:https://www.esbnyc.com/about/tower-lights/calendar/202211
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ESB: Signature White
+SUMMARY:ESB: Teal
 DTSTART;VALUE=DATE:20221103
 SEQUENCE:0
 CLASS:PUBLIC
-DESCRIPTION:
+DESCRIPTION:In Partnership with Alzheimer’s Foundation of America in Hon
+ or of the Light the World in Teal Campaign
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 URL:https://www.esbnyc.com/about/tower-lights/calendar/202211
@@ -395,21 +396,22 @@ TRANSP:TRANSPARENT
 URL:https://www.esbnyc.com/about/tower-lights/calendar/202211
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ESB: Signature White
+SUMMARY:ESB: Red\, White And Blue
 DTSTART;VALUE=DATE:20221108
 SEQUENCE:0
 CLASS:PUBLIC
-DESCRIPTION:
+DESCRIPTION:In Honor of Election Day
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 URL:https://www.esbnyc.com/about/tower-lights/calendar/202211
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ESB: Signature White
+SUMMARY:ESB: Red\, White And Blue
 DTSTART;VALUE=DATE:20221109
 SEQUENCE:0
 CLASS:PUBLIC
-DESCRIPTION:
+DESCRIPTION:In Honor of Team USA’s World Cup Roster Reveal in Partnershi
+ p with U.S. Soccer
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 URL:https://www.esbnyc.com/about/tower-lights/calendar/202211
