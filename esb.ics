@@ -162,11 +162,12 @@ TRANSP:TRANSPARENT
 URL:https://www.esbnyc.com/about/tower-lights/calendar/202211
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ESB: Signature White
+SUMMARY:ESB: Starbucks Green
 DTSTART;VALUE=DATE:20221116
 SEQUENCE:0
 CLASS:PUBLIC
-DESCRIPTION:
+DESCRIPTION:In Celebration of Starbucks Reserve’s Grand Opening at the E
+ mpire State Building
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 URL:https://www.esbnyc.com/about/tower-lights/calendar/202211
@@ -182,11 +183,12 @@ TRANSP:TRANSPARENT
 URL:https://www.esbnyc.com/about/tower-lights/calendar/202211
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ESB: Signature White
+SUMMARY:ESB: Red And Green
 DTSTART;VALUE=DATE:20221118
 SEQUENCE:0
 CLASS:PUBLIC
-DESCRIPTION:
+DESCRIPTION:In Celebration of the Radio City Rockettes’ Opening Night in
+  Partnership with Madison Square Garden Entertainment
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 URL:https://www.esbnyc.com/about/tower-lights/calendar/202211
