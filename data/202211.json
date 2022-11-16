@@ -46,5 +46,29 @@
       "color": "Red And Green",
       "description": "In Celebration of the Radio City Rockettes\u2019 Opening Night in Partnership with Madison Square Garden Entertainment"
     }
+  ],
+  "19": [
+    {
+      "color": "Lavender",
+      "description": "In Partnership with the National Hockey League in Honor of the Hockey Fights Cancer Campaign"
+    }
+  ],
+  "21": [
+    {
+      "color": "Purple And Red",
+      "description": "In Partnership with the Lupus Research Alliance in Honor of the Lupus Research Alliance Breaking Through Gala"
+    }
+  ],
+  "23": [
+    {
+      "color": "Festive Fall Colors",
+      "description": "In Honor of Thanksgiving"
+    }
+  ],
+  "24": [
+    {
+      "color": "Festive Fall Colors",
+      "description": "In Honor of Thanksgiving"
+    }
   ]
 }
