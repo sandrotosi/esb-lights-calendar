@@ -152,22 +152,22 @@ TRANSP:TRANSPARENT
 URL:https://www.esbnyc.com/about/tower-lights/calendar/202211
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ESB: Signature White
+SUMMARY:ESB: Starbucks Green
 DTSTART;VALUE=DATE:20221115
 SEQUENCE:0
 CLASS:PUBLIC
-DESCRIPTION:
+DESCRIPTION:In Celebration of Starbucks Reserve’s Grand Opening at the E
+ mpire State Building
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 URL:https://www.esbnyc.com/about/tower-lights/calendar/202211
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ESB: Starbucks Green
+SUMMARY:ESB: Signature White
 DTSTART;VALUE=DATE:20221116
 SEQUENCE:0
 CLASS:PUBLIC
-DESCRIPTION:In Celebration of Starbucks Reserve’s Grand Opening at the E
- mpire State Building
+DESCRIPTION:
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 URL:https://www.esbnyc.com/about/tower-lights/calendar/202211
