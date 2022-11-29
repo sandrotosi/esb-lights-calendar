@@ -518,8 +518,7 @@ TRANSP:TRANSPARENT
 URL:https://www.esbnyc.com/about/tower-lights/calendar/202212
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ESB: Blue And White With A Flickering Candle In The Mast N Celebra
- tion Of Chanukkah
+SUMMARY:ESB: Blue And White With A Flickering Candle In The Mast
 DTSTART;VALUE=DATE:20221221
 SEQUENCE:0
 CLASS:PUBLIC
