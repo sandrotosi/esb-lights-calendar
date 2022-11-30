@@ -295,11 +295,12 @@ TRANSP:TRANSPARENT
 URL:https://www.esbnyc.com/about/tower-lights/calendar/202211
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ESB: Signature White
+SUMMARY:ESB: Red\, White And Blue Sparkle
 DTSTART;VALUE=DATE:20221129
 SEQUENCE:0
 CLASS:PUBLIC
-DESCRIPTION:
+DESCRIPTION:In Celebration of Team USA Advancing to the Knockout Stages in
+  the 2022 World Cup
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 URL:https://www.esbnyc.com/about/tower-lights/calendar/202211
