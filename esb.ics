@@ -284,11 +284,11 @@ TRANSP:TRANSPARENT
 URL:https://www.esbnyc.com/about/tower-lights/calendar/202212
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ESB: Green And Red-And-White Candy Cane
+SUMMARY:ESB: Signature White
 DTSTART;VALUE=DATE:20221228
 SEQUENCE:0
 CLASS:PUBLIC
-DESCRIPTION:In Celebration of Christmas
+DESCRIPTION:
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 URL:https://www.esbnyc.com/about/tower-lights/calendar/202212
