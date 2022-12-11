@@ -21,7 +21,7 @@ jobs:
         run: |
           python3 -m pip install --upgrade pip
           python3 -m pip install -r requirements.txt
-      - name: Refresh USCIS data
+      - name: Refresh ESB lights data
         run:
           python3 esb-lights-calendar.py
       - name: Commit & Push
