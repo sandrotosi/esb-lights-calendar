@@ -244,21 +244,23 @@ TRANSP:TRANSPARENT
 URL:https://www.esbnyc.com/about/tower-lights/calendar/202212
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ESB: Green And Red-And-White Candy Cane
+SUMMARY:ESB: Green And Red-And-White Candy Cane With An Hourly Chanukah Sp
+ arkle
 DTSTART;VALUE=DATE:20221224
 SEQUENCE:0
 CLASS:PUBLIC
-DESCRIPTION:In Celebration of Christmas
+DESCRIPTION:In Celebration of the Holiday Season
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 URL:https://www.esbnyc.com/about/tower-lights/calendar/202212
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ESB: Green And Red-And-White Candy Cane
+SUMMARY:ESB: Green And Red-And-White Candy Cane With An Hourly Chanukah Sp
+ arkle
 DTSTART;VALUE=DATE:20221225
 SEQUENCE:0
 CLASS:PUBLIC
-DESCRIPTION:In Celebration of Christmas
+DESCRIPTION:In Celebration of the Holiday Season
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 URL:https://www.esbnyc.com/about/tower-lights/calendar/202212
