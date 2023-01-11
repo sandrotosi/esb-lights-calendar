@@ -4,5 +4,23 @@
       "color": "Split Lights",
       "description": "In Honor of the 2023 College Football Playoff National Championship"
     }
+  ],
+  "13": [
+    {
+      "color": "Blue",
+      "description": "In Honor of New York Giants \u201cBig Blue Friday\u201d and Clinching a Spot in the NFL Playoffs"
+    }
+  ],
+  "16": [
+    {
+      "color": "Red, Black And Green",
+      "description": "In Honor of Martin Luther King Jr. Day"
+    }
+  ],
+  "20": [
+    {
+      "color": "Red",
+      "description": "In Celebration of Lunar New Year"
+    }
   ]
 }
