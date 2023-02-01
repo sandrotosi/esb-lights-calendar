@@ -1,1 +1,26 @@
-{}
+{
+  "14": [
+    {
+      "color": "Pink Heartbeat Lighting",
+      "description": "In Celebration of Valentine's Day"
+    }
+  ],
+  "20": [
+    {
+      "color": "Red, White And Blue",
+      "description": "In Honor of President's Day"
+    }
+  ],
+  "27": [
+    {
+      "color": "Blue And Green",
+      "description": "In Partnership with National Eating Disorders Association in Honor of National Eating Disorders Awareness Week"
+    }
+  ],
+  "28": [
+    {
+      "color": "Pink, Green, Blue And Purple",
+      "description": "In Partnership with Rocket Pharmaceuticals in Honor of Rare Disease Day"
+    }
+  ]
+}
