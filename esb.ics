@@ -280,12 +280,11 @@ TRANSP:TRANSPARENT
 URL:https://www.esbnyc.com/about/tower-lights/calendar/202302
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ESB: Pink\, Green\, Blue And Purple
+SUMMARY:ESB: Signature White
 DTSTART;VALUE=DATE:20230228
 SEQUENCE:0
 CLASS:PUBLIC
-DESCRIPTION:In Partnership with Rocket Pharmaceuticals in Honor of Rare Di
- sease Day
+DESCRIPTION:
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 URL:https://www.esbnyc.com/about/tower-lights/calendar/202302
