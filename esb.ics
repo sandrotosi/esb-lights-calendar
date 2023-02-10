@@ -119,7 +119,7 @@ TRANSP:TRANSPARENT
 URL:https://www.esbnyc.com/about/tower-lights/calendar/202302
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ESB: Virtual Scoreboard Lighting
+SUMMARY:ESB: Split Lights & Virtual Scoreboard Lighting
 DTSTART;VALUE=DATE:20230212
 SEQUENCE:0
 CLASS:PUBLIC
