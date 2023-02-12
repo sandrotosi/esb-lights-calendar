@@ -109,11 +109,13 @@ TRANSP:TRANSPARENT
 URL:https://www.esbnyc.com/about/tower-lights/calendar/202302
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ESB: Signature White
+SUMMARY:ESB: Headline Blue\, White And Icy Blue With An Hourly Red\, White
+  And Blue Sparkle
 DTSTART;VALUE=DATE:20230211
 SEQUENCE:0
 CLASS:PUBLIC
-DESCRIPTION:
+DESCRIPTION:In Partnership with Bud Light to Celebrate and Support NFL Sal
+ ute to Service
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 URL:https://www.esbnyc.com/about/tower-lights/calendar/202302
