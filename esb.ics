@@ -171,11 +171,12 @@ TRANSP:TRANSPARENT
 URL:https://www.esbnyc.com/about/tower-lights/calendar/202302
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ESB: Signature White
+SUMMARY:ESB: Dynamic Light Show
 DTSTART;VALUE=DATE:20230217
 SEQUENCE:0
 CLASS:PUBLIC
-DESCRIPTION:
+DESCRIPTION:8:00 pm: Music-to-Light Show in Partnership with iHeart Radio 
+ and P!NK set to P!NK’s new single\, “Never Gonna Not Dance Again”
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 URL:https://www.esbnyc.com/about/tower-lights/calendar/202302
