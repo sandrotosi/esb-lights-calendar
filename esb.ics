@@ -9,11 +9,12 @@ X-WR-CALDESC:Show what light display is shown on the Empire State Building
 X-WR-CALNAME:Empire State Building Lights
 X-WR-TIMEZONE:UTC
 BEGIN:VEVENT
-SUMMARY:ESB: Signature White
+SUMMARY:ESB: Red And White
 DTSTART;VALUE=DATE:20230301
 SEQUENCE:0
 CLASS:PUBLIC
-DESCRIPTION:
+DESCRIPTION:6:30 p.m. – 7:30 p.m.: In Celebration of STV’s Relocation 
+ to the Empire State Building
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 URL:https://www.esbnyc.com/about/tower-lights/calendar/202303
@@ -110,11 +111,11 @@ TRANSP:TRANSPARENT
 URL:https://www.esbnyc.com/about/tower-lights/calendar/202303
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ESB: Signature White
+SUMMARY:ESB: Light Blue
 DTSTART;VALUE=DATE:20230311
 SEQUENCE:0
 CLASS:PUBLIC
-DESCRIPTION:
+DESCRIPTION:In Honor of NYCFC’s Home Opener
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 URL:https://www.esbnyc.com/about/tower-lights/calendar/202303
