@@ -46,5 +46,23 @@
       "color": "Green Fades With The Irish Flag Rotating In The Mast",
       "description": "In Partnership with Slainte Whiskey and BlueCheck Ukraine in Celebration of St. Patrick\u2019s Day"
     }
+  ],
+  "25": [
+    {
+      "color": "Dark From 8:30 P.M.- 9:30 P.M. Est",
+      "description": "In Observance of Earth Hour in Partnership with the World Wildlife Fund"
+    }
+  ],
+  "29": [
+    {
+      "color": "Blue And Orange",
+      "description": "In Celebration of the Food Bank for NYC's 40th Anniversary"
+    }
+  ],
+  "30": [
+    {
+      "color": "Blue",
+      "description": "In Partnership with NYC & Co. in Honor of Global Meetings Industry Day"
+    }
   ]
 }
