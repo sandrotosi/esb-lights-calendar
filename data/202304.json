@@ -1,1 +1,20 @@
-{}
+{
+  "5": [
+    {
+      "color": "Blue And Orange",
+      "description": "In Celebration of the New York Mets\u2019 Home Opener"
+    }
+  ],
+  "9": [
+    {
+      "color": "Pastel Shades",
+      "description": "In Celebration of Easter"
+    }
+  ],
+  "10": [
+    {
+      "color": "Orange",
+      "description": "In Celebration of the 2023 WNBA Draft"
+    }
+  ]
+}
