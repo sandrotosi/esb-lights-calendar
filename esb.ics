@@ -272,6 +272,18 @@ TRANSP:TRANSPARENT
 URL:https://www.esbnyc.com/about/tower-lights/calendar/202303
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:ESB: Split Lights
+DTSTART;VALUE=DATE:20230325
+SEQUENCE:0
+CLASS:PUBLIC
+DESCRIPTION:In Celebration of the Elite Eight Game at Madison Square Garde
+ n in Partnership with NCAA Men’s Basketball. Following the game\, ESB wi
+ ll light in the winner’s colors for the remainder of the evening.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.esbnyc.com/about/tower-lights/calendar/202303
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:ESB: Signature White
 DTSTART;VALUE=DATE:20230326
 SEQUENCE:0
