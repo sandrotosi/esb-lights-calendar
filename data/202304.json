@@ -1,4 +1,10 @@
 {
+  "1": [
+    {
+      "color": "Blue & White Pinstripes",
+      "description": "In celebration of the New York Yankees\u2019 Home Opening Weekend"
+    }
+  ],
   "5": [
     {
       "color": "Blue And Orange",
@@ -15,6 +21,24 @@
     {
       "color": "Orange",
       "description": "In Celebration of the 2023 WNBA Draft"
+    }
+  ],
+  "21": [
+    {
+      "color": "Green",
+      "description": "In Honor of Eid Al Fitr"
+    }
+  ],
+  "22": [
+    {
+      "color": "Green",
+      "description": "In Celebration of Earth Day"
+    }
+  ],
+  "25": [
+    {
+      "color": "Orange",
+      "description": "In Partnership with Progyny and RESOLVE in Honor of National Infertility Awareness Week"
     }
   ]
 }
