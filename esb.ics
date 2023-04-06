@@ -212,11 +212,11 @@ TRANSP:TRANSPARENT
 URL:https://www.esbnyc.com/about/tower-lights/calendar/202304
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ESB: Green
+SUMMARY:ESB: Signature White
 DTSTART;VALUE=DATE:20230421
 SEQUENCE:0
 CLASS:PUBLIC
-DESCRIPTION:In Honor of Eid Al Fitr
+DESCRIPTION:
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 URL:https://www.esbnyc.com/about/tower-lights/calendar/202304
