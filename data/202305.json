@@ -1,1 +1,26 @@
-{}
+{
+  "1": [
+    {
+      "color": "Multi-Color Sparkle",
+      "description": "In Celebration of Empire State Building\u2019s 92nd Birthday"
+    }
+  ],
+  "2": [
+    {
+      "color": "Blue And Purple",
+      "description": "In Honor of Police Memorial Day"
+    }
+  ],
+  "9": [
+    {
+      "color": "Purple And Gold",
+      "description": "In Honor of the 2023 Westminster Kennel Club Dog Show"
+    }
+  ],
+  "11": [
+    {
+      "color": "Green",
+      "description": "In Partnership with City Harvest in Honor of the Share Lunch Fight Hunger Campaign"
+    }
+  ]
+}
