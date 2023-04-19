@@ -215,12 +215,11 @@ TRANSP:TRANSPARENT
 URL:https://www.esbnyc.com/about/tower-lights/calendar/202304
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ESB: Blue\, Lime Green\, White And Dark Green
+SUMMARY:ESB: Signature White
 DTSTART;VALUE=DATE:20230421
 SEQUENCE:0
 CLASS:PUBLIC
-DESCRIPTION:In Partnership with Feld Motor Sports in Celebration of Monste
- r Energy AMA Supercross Championship
+DESCRIPTION:
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 URL:https://www.esbnyc.com/about/tower-lights/calendar/202304
