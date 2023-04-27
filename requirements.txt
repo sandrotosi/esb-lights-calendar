@@ -10,7 +10,7 @@ certifi==2022.12.7
     # via requests
 charset-normalizer==2.0.1
     # via requests
-icalendar==5.0.4
+icalendar==5.0.5
     # via -r requirements.in
 idna==2.10
     # via requests
