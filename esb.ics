@@ -29,11 +29,11 @@ TRANSP:TRANSPARENT
 URL:https://www.esbnyc.com/about/tower-lights/calendar/202305
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ESB: Gold
+SUMMARY:ESB: Signature White
 DTSTART;VALUE=DATE:20230503
 SEQUENCE:0
 CLASS:PUBLIC
-DESCRIPTION:In Honor of Asian Pacific American Heritage Month
+DESCRIPTION:
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 URL:https://www.esbnyc.com/about/tower-lights/calendar/202305
