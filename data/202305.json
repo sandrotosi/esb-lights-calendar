@@ -11,6 +11,18 @@
       "description": "In Honor of Police Memorial Day"
     }
   ],
+  "3": [
+    {
+      "color": "Gold",
+      "description": "In Partnership with Gold House in Honor of Asian American and Pacific Islander Heritage Month"
+    }
+  ],
+  "4": [
+    {
+      "color": "Rainbow",
+      "description": "In Partnership with RuPaul\u2019s Drag Race and the American Civil Liberties Union Ahead of the Season 8 Premiere"
+    }
+  ],
   "6": [
     {
       "color": "Blue, Red And White",
@@ -33,12 +45,76 @@
     {
       "color": "Green",
       "description": "In Partnership with City Harvest in Honor of the Share Lunch Fight Hunger Campaign"
+    },
+    {
+      "color": "Green",
+      "description": "In Partnership with City Harvest in Honor of the Share Lunch Fight Hunger Campaign"
     }
   ],
   "12": [
     {
       "color": "Gold, Light Blue And Blue",
       "description": "In Celebration of PACE University\u2019s Commencement"
+    }
+  ],
+  "14": [
+    {
+      "color": "Green And Blue",
+      "description": "In Partnership with the Children\u2019s Tumor Foundation in Honor of World NF Day"
+    }
+  ],
+  "15": [
+    {
+      "color": "Green Sparkle",
+      "description": "In Partnership with Robin Hood in Honor of the 2023 Annual Benefit"
+    }
+  ],
+  "16": [
+    {
+      "color": "Dynamic Purple And White",
+      "description": "In Honor of New York University Commencement"
+    }
+  ],
+  "17": [
+    {
+      "color": "Columbia Blue And White",
+      "description": "In Honor of Columbia University Commencement"
+    }
+  ],
+  "18": [
+    {
+      "color": "Teal",
+      "description": "In Partnership with FARE in Honor of Food Allergy Awareness Week"
+    }
+  ],
+  "20": [
+    {
+      "color": "Seafoam Green",
+      "description": "In Celebration of the New York Liberty Home Opener"
+    }
+  ],
+  "24": [
+    {
+      "color": "Purple, Blue And Green",
+      "description": "In Celebration of the Museum of the City of New York's Centennial Gala"
+    }
+  ],
+  "27": [
+    {
+      "color": "Red, White And Blue",
+      "description": "In Honor of Memorial Day"
+    }
+  ],
+  "28": [
+    {
+      "color": "Red, White And Blue",
+      "description": "In Honor of Memorial Day"
+    }
+  ],
+  "29": [
+    {
+      "color": "Red, White And Blue",
+      "description": "In Honor of Memorial Day"
     }
   ]
 }
