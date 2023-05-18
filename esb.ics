@@ -196,12 +196,11 @@ TRANSP:TRANSPARENT
 URL:https://www.esbnyc.com/about/tower-lights/calendar/202305
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ESB: Yellow\, Blue And White With A Red Siren
+SUMMARY:ESB: Signature White
 DTSTART;VALUE=DATE:20230519
 SEQUENCE:0
 CLASS:PUBLIC
-DESCRIPTION:In Honor of National EMS Week 2023 in Partnership with the FDN
- Y
+DESCRIPTION:
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 URL:https://www.esbnyc.com/about/tower-lights/calendar/202305
@@ -217,11 +216,12 @@ TRANSP:TRANSPARENT
 URL:https://www.esbnyc.com/about/tower-lights/calendar/202305
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ESB: Signature White
+SUMMARY:ESB: Yellow\, Blue And White With A Red Siren
 DTSTART;VALUE=DATE:20230521
 SEQUENCE:0
 CLASS:PUBLIC
-DESCRIPTION:
+DESCRIPTION:In Honor of National EMS Week 2023 in Partnership with the FDN
+ Y
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 URL:https://www.esbnyc.com/about/tower-lights/calendar/202305
