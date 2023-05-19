@@ -216,7 +216,7 @@ TRANSP:TRANSPARENT
 URL:https://www.esbnyc.com/about/tower-lights/calendar/202305
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ESB: Yellow\, Blue And White With A Red Siren
+SUMMARY:ESB: Yellow\, White And Blue With A Red Siren
 DTSTART;VALUE=DATE:20230521
 SEQUENCE:0
 CLASS:PUBLIC
