@@ -9,43 +9,41 @@ X-WR-CALDESC:Show what light display is shown on the Empire State Building
 X-WR-CALNAME:Empire State Building Lights
 X-WR-TIMEZONE:UTC
 BEGIN:VEVENT
-SUMMARY:ESB: Multi-Color Sparkle
+SUMMARY:ESB: Signature White
 DTSTART;VALUE=DATE:20230501
 SEQUENCE:0
 CLASS:PUBLIC
-DESCRIPTION:In Celebration of Empire State Building’s 92nd Birthday
+DESCRIPTION:
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 URL:https://www.esbnyc.com/about/tower-lights/calendar/202305
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ESB: Blue And Purple
+SUMMARY:ESB: Signature White
 DTSTART;VALUE=DATE:20230502
 SEQUENCE:0
 CLASS:PUBLIC
-DESCRIPTION:In Honor of Police Memorial Day
+DESCRIPTION:
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 URL:https://www.esbnyc.com/about/tower-lights/calendar/202305
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ESB: Gold
+SUMMARY:ESB: Signature White
 DTSTART;VALUE=DATE:20230503
 SEQUENCE:0
 CLASS:PUBLIC
-DESCRIPTION:In Partnership with Gold House in Honor of Asian American and 
- Pacific Islander Heritage Month
+DESCRIPTION:
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 URL:https://www.esbnyc.com/about/tower-lights/calendar/202305
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ESB: Rainbow
+SUMMARY:ESB: Signature White
 DTSTART;VALUE=DATE:20230504
 SEQUENCE:0
 CLASS:PUBLIC
-DESCRIPTION:In Partnership with RuPaul’s Drag Race and the American Civi
- l Liberties Union Ahead of the Season 8 Premiere
+DESCRIPTION:
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 URL:https://www.esbnyc.com/about/tower-lights/calendar/202305
@@ -61,11 +59,11 @@ TRANSP:TRANSPARENT
 URL:https://www.esbnyc.com/about/tower-lights/calendar/202305
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ESB: Blue\, Red And White
+SUMMARY:ESB: Signature White
 DTSTART;VALUE=DATE:20230506
 SEQUENCE:0
 CLASS:PUBLIC
-DESCRIPTION:In Honor of the Coronation of King Charles III
+DESCRIPTION:
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 URL:https://www.esbnyc.com/about/tower-lights/calendar/202305
@@ -81,53 +79,51 @@ TRANSP:TRANSPARENT
 URL:https://www.esbnyc.com/about/tower-lights/calendar/202305
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ESB: Blue And Yellow
+SUMMARY:ESB: Signature White
 DTSTART;VALUE=DATE:20230508
 SEQUENCE:0
 CLASS:PUBLIC
-DESCRIPTION:In Honor of EU Day
+DESCRIPTION:
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 URL:https://www.esbnyc.com/about/tower-lights/calendar/202305
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ESB: Purple And Gold
+SUMMARY:ESB: Signature White
 DTSTART;VALUE=DATE:20230509
 SEQUENCE:0
 CLASS:PUBLIC
-DESCRIPTION:In Honor of the 2023 Westminster Kennel Club Dog Show
+DESCRIPTION:
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 URL:https://www.esbnyc.com/about/tower-lights/calendar/202305
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ESB: Red
+SUMMARY:ESB: Signature White
 DTSTART;VALUE=DATE:20230510
 SEQUENCE:0
 CLASS:PUBLIC
-DESCRIPTION:In Celebration of National Travel and Tourism Week in Partners
- hip with the U.S. Travel Association
+DESCRIPTION:
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 URL:https://www.esbnyc.com/about/tower-lights/calendar/202305
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ESB: Green
+SUMMARY:ESB: Signature White
 DTSTART;VALUE=DATE:20230511
 SEQUENCE:0
 CLASS:PUBLIC
-DESCRIPTION:In Partnership with City Harvest in Honor of the Share Lunch F
- ight Hunger Campaign
+DESCRIPTION:
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 URL:https://www.esbnyc.com/about/tower-lights/calendar/202305
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ESB: Gold\, Light Blue And Blue
+SUMMARY:ESB: Signature White
 DTSTART;VALUE=DATE:20230512
 SEQUENCE:0
 CLASS:PUBLIC
-DESCRIPTION:In Celebration of PACE University’s Commencement
+DESCRIPTION:
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 URL:https://www.esbnyc.com/about/tower-lights/calendar/202305
@@ -143,54 +139,51 @@ TRANSP:TRANSPARENT
 URL:https://www.esbnyc.com/about/tower-lights/calendar/202305
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ESB: Green And Blue
+SUMMARY:ESB: Signature White
 DTSTART;VALUE=DATE:20230514
 SEQUENCE:0
 CLASS:PUBLIC
-DESCRIPTION:In Partnership with the Children’s Tumor Foundation in Honor
-  of World NF Day
+DESCRIPTION:
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 URL:https://www.esbnyc.com/about/tower-lights/calendar/202305
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ESB: Green Sparkle
+SUMMARY:ESB: Signature White
 DTSTART;VALUE=DATE:20230515
 SEQUENCE:0
 CLASS:PUBLIC
-DESCRIPTION:In Partnership with Robin Hood in Honor of the 2023 Annual Ben
- efit
+DESCRIPTION:
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 URL:https://www.esbnyc.com/about/tower-lights/calendar/202305
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ESB: Dynamic Purple And White
+SUMMARY:ESB: Signature White
 DTSTART;VALUE=DATE:20230516
 SEQUENCE:0
 CLASS:PUBLIC
-DESCRIPTION:In Honor of New York University Commencement
+DESCRIPTION:
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 URL:https://www.esbnyc.com/about/tower-lights/calendar/202305
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ESB: Columbia Blue And White
+SUMMARY:ESB: Signature White
 DTSTART;VALUE=DATE:20230517
 SEQUENCE:0
 CLASS:PUBLIC
-DESCRIPTION:In Honor of Columbia University Commencement
+DESCRIPTION:
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 URL:https://www.esbnyc.com/about/tower-lights/calendar/202305
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ESB: Teal
+SUMMARY:ESB: Signature White
 DTSTART;VALUE=DATE:20230518
 SEQUENCE:0
 CLASS:PUBLIC
-DESCRIPTION:In Partnership with FARE in Honor of Food Allergy Awareness We
- ek
+DESCRIPTION:
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 URL:https://www.esbnyc.com/about/tower-lights/calendar/202305
@@ -206,22 +199,21 @@ TRANSP:TRANSPARENT
 URL:https://www.esbnyc.com/about/tower-lights/calendar/202305
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ESB: Seafoam Green
+SUMMARY:ESB: Signature White
 DTSTART;VALUE=DATE:20230520
 SEQUENCE:0
 CLASS:PUBLIC
-DESCRIPTION:In Celebration of the New York Liberty Home Opener
+DESCRIPTION:
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 URL:https://www.esbnyc.com/about/tower-lights/calendar/202305
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ESB: Yellow\, White And Blue With A Red Siren
+SUMMARY:ESB: Signature White
 DTSTART;VALUE=DATE:20230521
 SEQUENCE:0
 CLASS:PUBLIC
-DESCRIPTION:In Honor of National EMS Week 2023 in Partnership with the FDN
- Y
+DESCRIPTION:
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 URL:https://www.esbnyc.com/about/tower-lights/calendar/202305
@@ -247,12 +239,11 @@ TRANSP:TRANSPARENT
 URL:https://www.esbnyc.com/about/tower-lights/calendar/202305
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ESB: Purple\, Blue And Green
+SUMMARY:ESB: Signature White
 DTSTART;VALUE=DATE:20230524
 SEQUENCE:0
 CLASS:PUBLIC
-DESCRIPTION:In Celebration of the Museum of the City of New York's Centenn
- ial Gala
+DESCRIPTION:
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 URL:https://www.esbnyc.com/about/tower-lights/calendar/202305
@@ -278,31 +269,31 @@ TRANSP:TRANSPARENT
 URL:https://www.esbnyc.com/about/tower-lights/calendar/202305
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ESB: Red\, White And Blue
+SUMMARY:ESB: Signature White
 DTSTART;VALUE=DATE:20230527
 SEQUENCE:0
 CLASS:PUBLIC
-DESCRIPTION:In Honor of Memorial Day
+DESCRIPTION:
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 URL:https://www.esbnyc.com/about/tower-lights/calendar/202305
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ESB: Red\, White And Blue
+SUMMARY:ESB: Signature White
 DTSTART;VALUE=DATE:20230528
 SEQUENCE:0
 CLASS:PUBLIC
-DESCRIPTION:In Honor of Memorial Day
+DESCRIPTION:
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 URL:https://www.esbnyc.com/about/tower-lights/calendar/202305
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ESB: Red\, White And Blue
+SUMMARY:ESB: Signature White
 DTSTART;VALUE=DATE:20230529
 SEQUENCE:0
 CLASS:PUBLIC
-DESCRIPTION:In Honor of Memorial Day
+DESCRIPTION:
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 URL:https://www.esbnyc.com/about/tower-lights/calendar/202305
@@ -338,12 +329,11 @@ TRANSP:TRANSPARENT
 URL:https://www.esbnyc.com/about/tower-lights/calendar/202306
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ESB: Orange
+SUMMARY:ESB: Signature White
 DTSTART;VALUE=DATE:20230602
 SEQUENCE:0
 CLASS:PUBLIC
-DESCRIPTION:In Partnership with Everytown for Gun Safety in Honor of Gun V
- iolence Awareness Day 2023
+DESCRIPTION:
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 URL:https://www.esbnyc.com/about/tower-lights/calendar/202306
@@ -399,12 +389,11 @@ TRANSP:TRANSPARENT
 URL:https://www.esbnyc.com/about/tower-lights/calendar/202306
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ESB: Nypd Blue
+SUMMARY:ESB: Signature White
 DTSTART;VALUE=DATE:20230608
 SEQUENCE:0
 CLASS:PUBLIC
-DESCRIPTION:In Honor of the 2023 New York City Police Foundation Annual Ga
- la
+DESCRIPTION:
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 URL:https://www.esbnyc.com/about/tower-lights/calendar/202306
