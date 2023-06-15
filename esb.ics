@@ -19,12 +19,11 @@ TRANSP:TRANSPARENT
 URL:https://www.esbnyc.com/about/tower-lights/calendar/202306
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ESB: Orange
+SUMMARY:ESB: Signature White
 DTSTART;VALUE=DATE:20230602
 SEQUENCE:0
 CLASS:PUBLIC
-DESCRIPTION:In Partnership with Everytown for Gun Safety in Honor of Gun V
- iolence Awareness Day 2023
+DESCRIPTION:
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 URL:https://www.esbnyc.com/about/tower-lights/calendar/202306
@@ -80,12 +79,11 @@ TRANSP:TRANSPARENT
 URL:https://www.esbnyc.com/about/tower-lights/calendar/202306
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ESB: Nypd Blue
+SUMMARY:ESB: Signature White
 DTSTART;VALUE=DATE:20230608
 SEQUENCE:0
 CLASS:PUBLIC
-DESCRIPTION:In Honor of the 2023 New York City Police Foundation Annual Ga
- la
+DESCRIPTION:
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 URL:https://www.esbnyc.com/about/tower-lights/calendar/202306
@@ -131,23 +129,21 @@ TRANSP:TRANSPARENT
 URL:https://www.esbnyc.com/about/tower-lights/calendar/202306
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ESB: Split Lights: Blue & Orange For New York Mets And Pinstripes 
- For New York Yankees
+SUMMARY:ESB: Signature White
 DTSTART;VALUE=DATE:20230613
 SEQUENCE:0
 CLASS:PUBLIC
-DESCRIPTION:In Celebration of the 2023 Subway Series
+DESCRIPTION:
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 URL:https://www.esbnyc.com/about/tower-lights/calendar/202306
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ESB: Split Lights: Blue & Orange For New York Mets And Pinstripes 
- For New York Yankees
+SUMMARY:ESB: Signature White
 DTSTART;VALUE=DATE:20230614
 SEQUENCE:0
 CLASS:PUBLIC
-DESCRIPTION:In Celebration of the 2023 Subway Series
+DESCRIPTION:
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 URL:https://www.esbnyc.com/about/tower-lights/calendar/202306
@@ -193,11 +189,11 @@ TRANSP:TRANSPARENT
 URL:https://www.esbnyc.com/about/tower-lights/calendar/202306
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ESB: Red\, Black And Green
+SUMMARY:ESB: Signature White
 DTSTART;VALUE=DATE:20230619
 SEQUENCE:0
 CLASS:PUBLIC
-DESCRIPTION:In Honor of Juneteenth
+DESCRIPTION:
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 URL:https://www.esbnyc.com/about/tower-lights/calendar/202306
@@ -253,12 +249,11 @@ TRANSP:TRANSPARENT
 URL:https://www.esbnyc.com/about/tower-lights/calendar/202306
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ESB: Rainbow
+SUMMARY:ESB: Signature White
 DTSTART;VALUE=DATE:20230625
 SEQUENCE:0
 CLASS:PUBLIC
-DESCRIPTION:In Honor of PRIDE in Partnership with Stonewall Inn Gives Back
-  Initiative and the Trevor Project
+DESCRIPTION:
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 URL:https://www.esbnyc.com/about/tower-lights/calendar/202306
@@ -324,31 +319,31 @@ TRANSP:TRANSPARENT
 URL:https://www.esbnyc.com/about/tower-lights/calendar/202307
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ESB: Red\, White And Blue
+SUMMARY:ESB: Signature White
 DTSTART;VALUE=DATE:20230702
 SEQUENCE:0
 CLASS:PUBLIC
-DESCRIPTION:In Celebration of Fourth of July
+DESCRIPTION:
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 URL:https://www.esbnyc.com/about/tower-lights/calendar/202307
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ESB: Red\, White And Blue
+SUMMARY:ESB: Signature White
 DTSTART;VALUE=DATE:20230703
 SEQUENCE:0
 CLASS:PUBLIC
-DESCRIPTION:In Celebration of Fourth of July
+DESCRIPTION:
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 URL:https://www.esbnyc.com/about/tower-lights/calendar/202307
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ESB: Red\, White And Blue
+SUMMARY:ESB: Signature White
 DTSTART;VALUE=DATE:20230704
 SEQUENCE:0
 CLASS:PUBLIC
-DESCRIPTION:In Celebration of Fourth of July
+DESCRIPTION:
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 URL:https://www.esbnyc.com/about/tower-lights/calendar/202307
