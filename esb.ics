@@ -203,21 +203,24 @@ TRANSP:TRANSPARENT
 URL:https://www.esbnyc.com/about/tower-lights/calendar/202306
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ESB: Signature White
+SUMMARY:ESB: Tripadvisor Green
 DTSTART;VALUE=DATE:20230620
 SEQUENCE:0
 CLASS:PUBLIC
-DESCRIPTION:
+DESCRIPTION:In Celebration of the Empire State Building Observatory Being 
+ Named #1 Attraction in the U.S. by Tripadvisor Travelers for the Second Co
+ nsecutive Year in 2023 Travelers’ Choice Best of the Best
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 URL:https://www.esbnyc.com/about/tower-lights/calendar/202306
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ESB: Signature White
+SUMMARY:ESB: Pink
 DTSTART;VALUE=DATE:20230621
 SEQUENCE:0
 CLASS:PUBLIC
-DESCRIPTION:
+DESCRIPTION:In Celebration of the 25th Anniversary Year of Sex and the Cit
+ y and the Season 2 Premiere of ‘And Just Like That…’
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 URL:https://www.esbnyc.com/about/tower-lights/calendar/202306
