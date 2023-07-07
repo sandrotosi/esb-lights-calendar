@@ -120,11 +120,11 @@ TRANSP:TRANSPARENT
 URL:https://www.esbnyc.com/about/tower-lights/calendar/202307
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ESB: All Light Blue
+SUMMARY:ESB: Signature White
 DTSTART;VALUE=DATE:20230712
 SEQUENCE:0
 CLASS:PUBLIC
-DESCRIPTION:Bluey and Bingo Light Up the Empire State Building
+DESCRIPTION:
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 URL:https://www.esbnyc.com/about/tower-lights/calendar/202307
@@ -200,11 +200,12 @@ TRANSP:TRANSPARENT
 URL:https://www.esbnyc.com/about/tower-lights/calendar/202307
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ESB: Signature White
+SUMMARY:ESB: Blue\, Red And Yellow
 DTSTART;VALUE=DATE:20230720
 SEQUENCE:0
 CLASS:PUBLIC
-DESCRIPTION:
+DESCRIPTION:In Partnership with the Consulate General of Colombia in New Y
+ ork in Celebration of Colombian Independence Day
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 URL:https://www.esbnyc.com/about/tower-lights/calendar/202307
