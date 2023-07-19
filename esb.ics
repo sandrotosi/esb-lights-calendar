@@ -181,7 +181,7 @@ TRANSP:TRANSPARENT
 URL:https://www.esbnyc.com/about/tower-lights/calendar/202307
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ESB: Yellow\, Blue And White
+SUMMARY:ESB: Yellow\, Blue And Red
 DTSTART;VALUE=DATE:20230718
 SEQUENCE:0
 CLASS:PUBLIC
