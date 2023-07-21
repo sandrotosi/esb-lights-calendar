@@ -4,5 +4,17 @@
       "color": "Blue",
       "description": "In Celebration of WABC\u2019s 75th Anniversary"
     }
+  ],
+  "11": [
+    {
+      "color": "Gold",
+      "description": "In Partnership with Universal Music Group in Celebration of the 50th Anniversary of Hip-Hop"
+    }
+  ],
+  "15": [
+    {
+      "color": "Green, White And Orange",
+      "description": "In Partnership with the Federation of Indian Associations in Celebration of India Day"
+    }
   ]
 }
