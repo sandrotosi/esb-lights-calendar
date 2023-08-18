@@ -282,11 +282,11 @@ TRANSP:TRANSPARENT
 URL:https://www.esbnyc.com/about/tower-lights/calendar/202308
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ESB: Signature White
+SUMMARY:ESB: Blue And Yellow
 DTSTART;VALUE=DATE:20230828
 SEQUENCE:0
 CLASS:PUBLIC
-DESCRIPTION:
+DESCRIPTION:To Mark the 2023 US Open Tennis Championships
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 URL:https://www.esbnyc.com/about/tower-lights/calendar/202308
@@ -322,11 +322,12 @@ TRANSP:TRANSPARENT
 URL:https://www.esbnyc.com/about/tower-lights/calendar/202308
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ESB: Signature White
+SUMMARY:ESB: Yellow And Green
 DTSTART;VALUE=DATE:20230901
 SEQUENCE:0
 CLASS:PUBLIC
-DESCRIPTION:
+DESCRIPTION:In Partnership with NYC Emergency Management to Mark the 20th 
+ Anniversary of CERT & Ready NY
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 URL:https://www.esbnyc.com/about/tower-lights/calendar/202309
