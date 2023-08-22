@@ -4,5 +4,35 @@
       "color": "Yellow And Green",
       "description": "In Partnership with NYC Emergency Management to Mark the 20th Anniversary of CERT & Ready NY"
     }
+  ],
+  "2": [
+    {
+      "color": "Red, White And Blue",
+      "description": "In Honor of Labor Day Weekend"
+    }
+  ],
+  "3": [
+    {
+      "color": "Red, White And Blue",
+      "description": "In Honor of Labor Day Weekend"
+    }
+  ],
+  "4": [
+    {
+      "color": "Red, White And Blue",
+      "description": "In Honor of Labor Day Weekend"
+    }
+  ],
+  "10": [
+    {
+      "color": "Blue",
+      "description": "In Celebration of the New York Giants Home Opener"
+    }
+  ],
+  "11": [
+    {
+      "color": "Blue",
+      "description": "In Partnership with 911 Memorial & Museum in Honor of the Citywide Commemoration: Tribute in Lights"
+    }
   ]
 }
