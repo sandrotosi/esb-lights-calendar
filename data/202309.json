@@ -23,6 +23,18 @@
       "description": "In Honor of Labor Day Weekend"
     }
   ],
+  "6": [
+    {
+      "color": "Blue, White And Green",
+      "description": "In Celebration of EXTRA TV\u2019s 30th Anniversary"
+    }
+  ],
+  "7": [
+    {
+      "color": "Green, Yellow And Blue",
+      "description": "In Celebration of Brazilian Independence Day in Partnership with the Consulate General of Brazil in New York"
+    }
+  ],
   "10": [
     {
       "color": "Blue",
@@ -33,6 +45,12 @@
     {
       "color": "Blue",
       "description": "In Partnership with 911 Memorial & Museum in Honor of the Citywide Commemoration: Tribute in Lights"
+    }
+  ],
+  "21": [
+    {
+      "color": "Rotation Of Countries' Flags That Celebrate Hispanic Heritage Month",
+      "description": "In Honor of Hispanic Heritage Month"
     }
   ]
 }
