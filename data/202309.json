@@ -59,10 +59,28 @@
       "description": "In Celebration of Mexican Independence Day in Partnership with the Consulate General of Mexico in New York"
     }
   ],
+  "16": [
+    {
+      "color": "Dark Blue And Cyan",
+      "description": "In Partnership with iHeartMedia in Celebration of a New Vaccine"
+    }
+  ],
+  "18": [
+    {
+      "color": "Blue",
+      "description": "In Partnership with Clinton Global Initiative in Celebration of Climate Week"
+    }
+  ],
   "21": [
     {
       "color": "Rotation Of Countries' Flags That Celebrate Hispanic Heritage Month",
       "description": "In Honor of Hispanic Heritage Month"
+    }
+  ],
+  "26": [
+    {
+      "color": "Red, Yellow, Blue",
+      "description": "In Partnership with CBS in Celebration of Survivor\u2019s 45th Season"
     }
   ],
   "27": [
