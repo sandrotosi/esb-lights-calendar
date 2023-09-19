@@ -122,11 +122,13 @@ TRANSP:TRANSPARENT
 URL:https://www.esbnyc.com/about/tower-lights/calendar/202309
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ESB: Signature White
+SUMMARY:ESB: Green
 DTSTART;VALUE=DATE:20230912
 SEQUENCE:0
 CLASS:PUBLIC
-DESCRIPTION:
+DESCRIPTION:In Partnership with Penguin Random House and Greenlights Grant
+  Initiative to Celebrate 100 Weeks of Greenlights on the NYT Bestseller Li
+ st
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 URL:https://www.esbnyc.com/about/tower-lights/calendar/202309
