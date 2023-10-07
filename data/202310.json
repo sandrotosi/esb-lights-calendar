@@ -11,6 +11,12 @@
       "description": "In Honor of the Annual Empire State Building Run-Up Sponsored by MyFitnessPal"
     }
   ],
+  "7": [
+    {
+      "color": "Black And Yellow",
+      "description": "In Partnership with Borussia Dortmund (BVB) in Honor of Street Soccer USA"
+    }
+  ],
   "8": [
     {
       "color": "Blue And Red",
@@ -23,6 +29,12 @@
       "description": "In Honor of Indigenous Peoples\u2019 Day"
     }
   ],
+  "11": [
+    {
+      "color": "Blue",
+      "description": "In Partnership with New York City Ballet in Honor of the 75th Anniversary"
+    }
+  ],
   "14": [
     {
       "color": "Blue And Orange",
@@ -33,6 +45,12 @@
     {
       "color": "Red, White And Blue",
       "description": "In Celebration of the New York Rangers\u2019 Home Opener"
+    }
+  ],
+  "24": [
+    {
+      "color": "Orange",
+      "description": "In Celebration of ATEEZ\u2019s 5th Anniversary"
     }
   ],
   "25": [
