@@ -15,6 +15,10 @@
     {
       "color": "Black And Yellow",
       "description": "In Partnership with Borussia Dortmund (BVB) in Honor of Street Soccer USA"
+    },
+    {
+      "color": "Blue And White",
+      "description": "Colors of the Israeli Flag"
     }
   ],
   "8": [
@@ -33,6 +37,16 @@
     {
       "color": "Blue",
       "description": "In Partnership with New York City Ballet in Honor of the 75th Anniversary"
+    }
+  ],
+  "13": [
+    {
+      "color": "Black And Yellow",
+      "description": "In Partnership with FOX Sports in Celebration of NFL on FOX\u2019s 30th Anniversary"
+    },
+    {
+      "color": "Blue And White",
+      "description": "10 p.m. to sunrise: Colors of the Israeli Flag"
     }
   ],
   "14": [

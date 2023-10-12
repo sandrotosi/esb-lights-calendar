@@ -83,6 +83,16 @@ TRANSP:TRANSPARENT
 URL:https://www.esbnyc.com/about/tower-lights/calendar/202310
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:ESB: Blue And White
+DTSTART;VALUE=DATE:20231007
+SEQUENCE:0
+CLASS:PUBLIC
+DESCRIPTION:Colors of the Israeli Flag
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.esbnyc.com/about/tower-lights/calendar/202310
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:ESB: Blue And Red
 DTSTART;VALUE=DATE:20231008
 SEQUENCE:0
@@ -135,11 +145,22 @@ TRANSP:TRANSPARENT
 URL:https://www.esbnyc.com/about/tower-lights/calendar/202310
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ESB: Signature White
+SUMMARY:ESB: Black And Yellow
 DTSTART;VALUE=DATE:20231013
 SEQUENCE:0
 CLASS:PUBLIC
-DESCRIPTION:
+DESCRIPTION:In Partnership with FOX Sports in Celebration of NFL on FOX’
+ s 30th Anniversary
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.esbnyc.com/about/tower-lights/calendar/202310
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ESB: Blue And White
+DTSTART;VALUE=DATE:20231013
+SEQUENCE:0
+CLASS:PUBLIC
+DESCRIPTION:10 p.m. to sunrise: Colors of the Israeli Flag
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 URL:https://www.esbnyc.com/about/tower-lights/calendar/202310
