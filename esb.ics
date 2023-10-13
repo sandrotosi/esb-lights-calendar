@@ -145,17 +145,6 @@ TRANSP:TRANSPARENT
 URL:https://www.esbnyc.com/about/tower-lights/calendar/202310
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ESB: Black And Yellow
-DTSTART;VALUE=DATE:20231013
-SEQUENCE:0
-CLASS:PUBLIC
-DESCRIPTION:In Partnership with FOX Sports in Celebration of NFL on FOX’
- s 30th Anniversary
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-URL:https://www.esbnyc.com/about/tower-lights/calendar/202310
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:ESB: Blue And White
 DTSTART;VALUE=DATE:20231013
 SEQUENCE:0
