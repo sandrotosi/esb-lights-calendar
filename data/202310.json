@@ -63,16 +63,28 @@
       "description": "In Partnership with Coty Sally Hansen and GLAAD in Honor of Spirit Day"
     }
   ],
-  "24": [
-    {
-      "color": "Orange",
-      "description": "In Celebration of ATEEZ\u2019s 5th Anniversary"
-    }
-  ],
   "25": [
     {
       "color": "Blue And Orange",
       "description": "In Celebration of the New York Knicks\u2019 Home Opener"
+    }
+  ],
+  "26": [
+    {
+      "color": "Blue And Yellow",
+      "description": "In Partnership with Afterschool Alliance in Honor of the Lights on Afterschool Campaign"
+    }
+  ],
+  "30": [
+    {
+      "color": "Green",
+      "description": "In Celebration of WICKED's 20th Anniversary"
+    }
+  ],
+  "31": [
+    {
+      "color": "Spooky Led Lighting Effects Featuring Pumpkins, Witches And Ghosts In The Mast Along With Flashing Lights",
+      "description": "In Celebration of Halloween"
     }
   ]
 }
