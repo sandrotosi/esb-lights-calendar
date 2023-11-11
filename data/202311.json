@@ -1,1 +1,50 @@
-{}
+{
+  "1": [
+    {
+      "color": "Red And White",
+      "description": "In Partnership with the New York Landmarks Conservancy in Celebration of their 50th Anniversary"
+    }
+  ],
+  "2": [
+    {
+      "color": "Teal",
+      "description": "In Partnership with the Alzheimer's Foundation of America in Honor of the Light the World Teal Campaign"
+    }
+  ],
+  "7": [
+    {
+      "color": "Green And Yellow",
+      "description": "In Partnership with Warner Bros. Home Entertainment in Celebration of the 20th Anniversary of \u2018Elf\u2019"
+    }
+  ],
+  "9": [
+    {
+      "color": "Yellow And Black",
+      "description": "In Celebration of the 30th Anniversary of Wu-Tang Clan's Debut"
+    }
+  ],
+  "11": [
+    {
+      "color": "Red & White Stripes, Blue And Gold",
+      "description": "In Partnership with the Wounded Warrior Project in Honor of Veteran\u2019s Day"
+    }
+  ],
+  "13": [
+    {
+      "color": "Blue",
+      "description": "In Partnership with Chief Executives for Corporate Purpose in Honor of the CECP Annual Board of Boards"
+    }
+  ],
+  "14": [
+    {
+      "color": "Blue",
+      "description": "In Partnership with the Helmsley Trust in Honor of World Diabetes Day"
+    }
+  ],
+  "17": [
+    {
+      "color": "Red And Green",
+      "description": "In Partnership with Madison Square Garden Entertainment in Celebration of the Radio City Rockettes\u2019 Christmas Spectacular Opening Night"
+    }
+  ]
+}
