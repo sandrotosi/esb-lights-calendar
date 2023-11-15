@@ -47,10 +47,40 @@
       "description": "In Partnership with the Helmsley Trust in Honor of World Diabetes Day"
     }
   ],
+  "16": [
+    {
+      "color": "Blue And Yellow",
+      "description": "In Partnership with Covenant House in Honor of the Covenant House Sleep Out"
+    }
+  ],
   "17": [
     {
       "color": "Red And Green",
       "description": "In Partnership with Madison Square Garden Entertainment in Celebration of the Radio City Rockettes\u2019 Christmas Spectacular Opening Night"
+    }
+  ],
+  "18": [
+    {
+      "color": "Split Lights: Red, White And Blue & Red",
+      "description": "In Honor of New York Rangers vs. New Jersey Devils"
+    }
+  ],
+  "19": [
+    {
+      "color": "Red And Purple",
+      "description": "In Partnership with the Lupus Research Alliance in Honor of Lupus Research Alliance Annual Gala"
+    }
+  ],
+  "20": [
+    {
+      "color": "Blue, Gold And White",
+      "description": "In Partnership with NBC Entertainment in Honor of The National Dog Show"
+    }
+  ],
+  "23": [
+    {
+      "color": "Fall Fades",
+      "description": "In Honor of Thanksgiving"
     }
   ]
 }
