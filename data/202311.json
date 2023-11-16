@@ -51,6 +51,10 @@
     {
       "color": "Blue And Yellow",
       "description": "In Partnership with Covenant House in Honor of the Covenant House Sleep Out"
+    },
+    {
+      "color": "Light Blue",
+      "description": "7:00 pm \u2013 8:00 pm: In Celebration of Gotham FC Winning the NWSL Championship"
     }
   ],
   "17": [
@@ -75,6 +79,12 @@
     {
       "color": "Blue, Gold And White",
       "description": "In Partnership with NBC Entertainment in Honor of The National Dog Show"
+    }
+  ],
+  "22": [
+    {
+      "color": "Blue",
+      "description": "In Celebration of NFL on FOX\u2019s 30th Anniversary"
     }
   ],
   "23": [

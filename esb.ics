@@ -177,6 +177,17 @@ TRANSP:TRANSPARENT
 URL:https://www.esbnyc.com/about/tower-lights/calendar/202311
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:ESB: Light Blue
+DTSTART;VALUE=DATE:20231116
+SEQUENCE:0
+CLASS:PUBLIC
+DESCRIPTION:7:00 pm – 8:00 pm: In Celebration of Gotham FC Winning the N
+ WSL Championship
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.esbnyc.com/about/tower-lights/calendar/202311
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:ESB: Red And Green
 DTSTART;VALUE=DATE:20231117
 SEQUENCE:0
@@ -231,11 +242,11 @@ TRANSP:TRANSPARENT
 URL:https://www.esbnyc.com/about/tower-lights/calendar/202311
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ESB: Signature White
+SUMMARY:ESB: Blue
 DTSTART;VALUE=DATE:20231122
 SEQUENCE:0
 CLASS:PUBLIC
-DESCRIPTION:
+DESCRIPTION:In Celebration of NFL on FOX’s 30th Anniversary
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 URL:https://www.esbnyc.com/about/tower-lights/calendar/202311
