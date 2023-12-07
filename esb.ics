@@ -99,6 +99,16 @@ TRANSP:TRANSPARENT
 URL:https://www.esbnyc.com/about/tower-lights/calendar/202312
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:ESB: Sky Blue And Electric Blue
+DTSTART;VALUE=DATE:20231209
+SEQUENCE:0
+CLASS:PUBLIC
+DESCRIPTION:In Celebration of Manchester City’s Treble Trophy Tour
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.esbnyc.com/about/tower-lights/calendar/202312
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:ESB: Blue And White With A Flickering Candle In The Mast
 DTSTART;VALUE=DATE:20231210
 SEQUENCE:0
