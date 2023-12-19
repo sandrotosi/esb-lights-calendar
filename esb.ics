@@ -189,11 +189,12 @@ TRANSP:TRANSPARENT
 URL:https://www.esbnyc.com/about/tower-lights/calendar/202312
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ESB: Signature White
+SUMMARY:ESB: Yellow And Blue
 DTSTART;VALUE=DATE:20231219
 SEQUENCE:0
 CLASS:PUBLIC
-DESCRIPTION:
+DESCRIPTION:To Support Ukraine and Honor the Work of the Lubetzky Family F
+ oundation
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 URL:https://www.esbnyc.com/about/tower-lights/calendar/202312
@@ -206,6 +207,16 @@ CLASS:PUBLIC
 DESCRIPTION:To Celebrate New York Nets vs. New York Knicks. The Empire Sta
  te Building will light in the winner's colors for the remainder of the nig
  ht.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.esbnyc.com/about/tower-lights/calendar/202312
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ESB: Blue
+DTSTART;VALUE=DATE:20231220
+SEQUENCE:0
+CLASS:PUBLIC
+DESCRIPTION:In Celebration of the Percy Jackson Series Premiere
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 URL:https://www.esbnyc.com/about/tower-lights/calendar/202312
