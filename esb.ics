@@ -79,11 +79,15 @@ TRANSP:TRANSPARENT
 URL:https://www.esbnyc.com/about/tower-lights/calendar/202401
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ESB: Signature White
+SUMMARY:ESB: Split Lights: Blue And Yellow For University Of Michigan & Pu
+ rple And Gold For University Of Washington
 DTSTART;VALUE=DATE:20240108
 SEQUENCE:0
 CLASS:PUBLIC
-DESCRIPTION:
+DESCRIPTION:In honor of the College Football Playoff National Championship
+  in Partnership with College Football Playoff. The building will light in 
+ the winning team’s colors at the end of the game for the remainder of th
+ e night.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 URL:https://www.esbnyc.com/about/tower-lights/calendar/202401
@@ -149,11 +153,11 @@ TRANSP:TRANSPARENT
 URL:https://www.esbnyc.com/about/tower-lights/calendar/202401
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ESB: Signature White
+SUMMARY:ESB: Red\, Black And Green
 DTSTART;VALUE=DATE:20240115
 SEQUENCE:0
 CLASS:PUBLIC
-DESCRIPTION:
+DESCRIPTION:In Honor of Martin Luther King Jr. Day
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 URL:https://www.esbnyc.com/about/tower-lights/calendar/202401
