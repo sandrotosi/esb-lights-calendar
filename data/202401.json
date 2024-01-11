@@ -37,7 +37,7 @@
   ],
   "8": [
     {
-      "color": "Split Lights: Blue And Yellow For University Of Michigan & Purple And Gold For University Of Washington",
+      "color": "Split Lights: Blue And Maize For University Of Michigan & Purple And Gold For University Of Washington",
       "description": "In honor of the College Football Playoff National Championship in Partnership with College Football Playoff. The building will light in the winning team\u2019s colors at the end of the game for the remainder of the night."
     }
   ],
@@ -57,6 +57,12 @@
     {
       "color": "Red, Black And Green",
       "description": "In Honor of Martin Luther King Jr. Day"
+    }
+  ],
+  "27": [
+    {
+      "color": "Yellow",
+      "description": "In Honor of Holocaust Remembrance Day in Partnership with Voices for Truth and Humanity"
     }
   ]
 }

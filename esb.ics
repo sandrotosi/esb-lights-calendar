@@ -79,8 +79,8 @@ TRANSP:TRANSPARENT
 URL:https://www.esbnyc.com/about/tower-lights/calendar/202401
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ESB: Split Lights: Blue And Yellow For University Of Michigan & Pu
- rple And Gold For University Of Washington
+SUMMARY:ESB: Split Lights: Blue And Maize For University Of Michigan & Pur
+ ple And Gold For University Of Washington
 DTSTART;VALUE=DATE:20240108
 SEQUENCE:0
 CLASS:PUBLIC
@@ -275,11 +275,12 @@ TRANSP:TRANSPARENT
 URL:https://www.esbnyc.com/about/tower-lights/calendar/202401
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ESB: Signature White
+SUMMARY:ESB: Yellow
 DTSTART;VALUE=DATE:20240127
 SEQUENCE:0
 CLASS:PUBLIC
-DESCRIPTION:
+DESCRIPTION:In Honor of Holocaust Remembrance Day in Partnership with Voic
+ es for Truth and Humanity
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 URL:https://www.esbnyc.com/about/tower-lights/calendar/202401
