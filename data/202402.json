@@ -4,5 +4,17 @@
       "color": "Red",
       "description": "In Celebration of Lunar New Year"
     }
+  ],
+  "14": [
+    {
+      "color": "Pink Heartbeat",
+      "description": "In Celebration of Valentine's Day"
+    }
+  ],
+  "19": [
+    {
+      "color": "Red, White And Blue",
+      "description": "In Honor of President's Day"
+    }
   ]
 }
