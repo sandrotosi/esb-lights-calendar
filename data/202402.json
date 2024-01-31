@@ -17,10 +17,28 @@
       "description": "In Celebration of Valentine's Day"
     }
   ],
+  "18": [
+    {
+      "color": "Split Lights: Red, White And Blue For The New York Rangers & Blue And Orange For The New York Islanders",
+      "description": "In Celebration of the New York Rangers vs. New York Islanders Game. The Empire State Building will light in the winner\u2019s colors at the end of the game."
+    }
+  ],
   "19": [
     {
       "color": "Red, White And Blue",
       "description": "In Honor of President's Day"
+    }
+  ],
+  "20": [
+    {
+      "color": "Red",
+      "description": "In Celebration of Ringling Bros. and Barnum & Bailey\u2019s World Premiere"
+    }
+  ],
+  "22": [
+    {
+      "color": "Split Lights: Red, White And Blue For The New York Rangers And Red For The New Jersey Devils",
+      "description": "In Celebration of the New York Rangers vs. New Jersey Devils Game. The Empire State Building will light in the winner's colors at the end of the game."
     }
   ]
 }
