@@ -11,6 +11,12 @@
       "description": "In Celebration of Lunar New Year"
     }
   ],
+  "11": [
+    {
+      "color": "Virtual Scoreboard",
+      "description": "In Celebration of Super Bowl LVIII"
+    }
+  ],
   "14": [
     {
       "color": "Pink Heartbeat",
@@ -39,6 +45,12 @@
     {
       "color": "Split Lights: Red, White And Blue For The New York Rangers And Red For The New Jersey Devils",
       "description": "In Celebration of the New York Rangers vs. New Jersey Devils Game. The Empire State Building will light in the winner's colors at the end of the game."
+    }
+  ],
+  "24": [
+    {
+      "color": "Yellow And Blue",
+      "description": "In Support of Ukraine"
     }
   ]
 }
