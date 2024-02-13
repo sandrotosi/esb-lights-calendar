@@ -276,11 +276,13 @@ TRANSP:TRANSPARENT
 URL:https://www.esbnyc.com/about/tower-lights/calendar/202402
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ESB: Signature White
+SUMMARY:ESB: Blue And Yellow
 DTSTART;VALUE=DATE:20240227
 SEQUENCE:0
 CLASS:PUBLIC
-DESCRIPTION:
+DESCRIPTION:In Partnership with The Pokémon Company International and The
+  Toy Foundation to Celebrate Pokémon Day and Upcoming Premiere of “Pok
+ émon Horizons: The Series”
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 URL:https://www.esbnyc.com/about/tower-lights/calendar/202402
