@@ -223,13 +223,14 @@ TRANSP:TRANSPARENT
 URL:https://www.esbnyc.com/about/tower-lights/calendar/202402
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ESB: New York Rangers V. New Jersey Devils
+SUMMARY:ESB: Split Lights: Red\, White And Blue For The New York Rangers A
+ nd Red For The New Jersey Devils
 DTSTART;VALUE=DATE:20240222
 SEQUENCE:0
 CLASS:PUBLIC
 DESCRIPTION:In Celebration of the New York Rangers vs. New Jersey Devils G
- ame. The Empire State Building will shine in the winner's colors following
-  the game.
+ ame. The Empire State Building will light in the winner's colors at the en
+ d of the game.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 URL:https://www.esbnyc.com/about/tower-lights/calendar/202402
@@ -297,7 +298,7 @@ TRANSP:TRANSPARENT
 URL:https://www.esbnyc.com/about/tower-lights/calendar/202402
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ESB: Rocket Pharma
+SUMMARY:ESB: Purple\, Green\, Blue And Pink
 DTSTART;VALUE=DATE:20240229
 SEQUENCE:0
 CLASS:PUBLIC
