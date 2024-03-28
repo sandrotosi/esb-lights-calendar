@@ -1,20 +1,50 @@
 {
+  "5": [
+    {
+      "color": "White And Navy Blue Pinstripes",
+      "description": "In Celebration of the New York Yankees\u2019 Home Opener"
+    }
+  ],
   "6": [
     {
       "color": "Teal",
       "description": "In Partnership with The Joyful Heart Foundation and NBC Entertainment in Honor of Sexual Assault Awareness Month & Season 25 of Law & Order: SVU"
     }
   ],
-  "10": [
+  "9": [
     {
       "color": "Green",
-      "description": "In Honor of Eid al-Fitr"
+      "description": "In Celebration of Eid al-Fitr"
+    }
+  ],
+  "11": [
+    {
+      "color": "Blue",
+      "description": "In Partnership with The Michael J. Fox Foundation in Honor of World Parkinson\u2019s Day"
+    }
+  ],
+  "14": [
+    {
+      "color": "Light Blue",
+      "description": "In Celebration of Gotham FC\u2019s Home Opener"
+    }
+  ],
+  "15": [
+    {
+      "color": "Orange",
+      "description": "In Celebration of the WNBA Draft"
     }
   ],
   "22": [
     {
       "color": "Green",
       "description": "In Celebration of Earth Day"
+    }
+  ],
+  "24": [
+    {
+      "color": "Progyny",
+      "description": "In Partnership with Progyny and RESOLVE in Honor of National Infertility Awareness Week"
     }
   ]
 }
