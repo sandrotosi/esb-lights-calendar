@@ -19,7 +19,7 @@ TRANSP:TRANSPARENT
 URL:https://www.esbnyc.com/about/tower-lights/calendar/202404
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ESB: Blue
+SUMMARY:ESB: Blue\, Teal\, Purple And Pink
 DTSTART;VALUE=DATE:20240402
 SEQUENCE:0
 CLASS:PUBLIC
