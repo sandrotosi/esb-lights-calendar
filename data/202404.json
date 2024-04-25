@@ -27,6 +27,10 @@
     {
       "color": "Pink And Purple",
       "description": "In Celebration of the 5-Year Anniversary of TODAY with Hoda & Jenna"
+    },
+    {
+      "color": "White Sparkle",
+      "description": "From 2:10 to 4:40 p.m. the Empire State Building will Sparkle During the Total Solar Eclipse"
     }
   ],
   "9": [
@@ -45,6 +49,18 @@
     {
       "color": "Blue",
       "description": "In Partnership with The Michael J. Fox Foundation in Honor of World Parkinson\u2019s Day"
+    }
+  ],
+  "12": [
+    {
+      "color": "White & Black For Brooklyn Nets Or Blue & Orange For New York Knicks",
+      "description": "Empire State Building will Light for the Winning Team Following the Nets vs. Knicks Game for Remainder of the Night"
+    }
+  ],
+  "13": [
+    {
+      "color": "Red, White & Blue For New York Rangers Or Blue & Orange For New York Islanders",
+      "description": "Empire State Building will Light for the Winner of the New York Rangers vs. New York Islanders Game"
     }
   ],
   "14": [
@@ -71,6 +87,22 @@
       "description": "In Partnership with the U.S. Department of Energy in Celebration of First Ever Federal Blueprint to Decarbonize America\u2019s Buildings Sector"
     }
   ],
+  "20": [
+    {
+      "color": "Blue And Orange",
+      "description": "In Celebration of the New York Knicks\u2019 Home Playoff Game"
+    },
+    {
+      "color": "Blue And White Pinstripes",
+      "description": "From 8-9 p.m. in Honor of John Sterling's Retirement"
+    }
+  ],
+  "21": [
+    {
+      "color": "Red, White And Blue",
+      "description": "In Celebration of the New York Rangers\u2019 Home Playoff Game"
+    }
+  ],
   "22": [
     {
       "color": "Green",
@@ -81,6 +113,12 @@
     {
       "color": "Progyny",
       "description": "In Partnership with Progyny and RESOLVE in Honor of National Infertility Awareness Week"
+    }
+  ],
+  "25": [
+    {
+      "color": "Blue And Orange",
+      "description": "In Celebration of the New York Islanders\u2019 Home Playoff Game"
     }
   ]
 }

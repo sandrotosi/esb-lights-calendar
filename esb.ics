@@ -94,6 +94,17 @@ TRANSP:TRANSPARENT
 URL:https://www.esbnyc.com/about/tower-lights/calendar/202404
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:ESB: White Sparkle
+DTSTART;VALUE=DATE:20240408
+SEQUENCE:0
+CLASS:PUBLIC
+DESCRIPTION:From 2:10 to 4:40 p.m. the Empire State Building will Sparkle 
+ During the Total Solar Eclipse
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.esbnyc.com/about/tower-lights/calendar/202404
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:ESB: Green
 DTSTART;VALUE=DATE:20240409
 SEQUENCE:0
@@ -126,21 +137,25 @@ TRANSP:TRANSPARENT
 URL:https://www.esbnyc.com/about/tower-lights/calendar/202404
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ESB: Signature White
+SUMMARY:ESB: White & Black For Brooklyn Nets Or Blue & Orange For New York
+  Knicks
 DTSTART;VALUE=DATE:20240412
 SEQUENCE:0
 CLASS:PUBLIC
-DESCRIPTION:
+DESCRIPTION:Empire State Building will Light for the Winning Team Followin
+ g the Nets vs. Knicks Game for Remainder of the Night
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 URL:https://www.esbnyc.com/about/tower-lights/calendar/202404
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ESB: Signature White
+SUMMARY:ESB: Red\, White & Blue For New York Rangers Or Blue & Orange For 
+ New York Islanders
 DTSTART;VALUE=DATE:20240413
 SEQUENCE:0
 CLASS:PUBLIC
-DESCRIPTION:
+DESCRIPTION:Empire State Building will Light for the Winner of the New Yor
+ k Rangers vs. New York Islanders Game
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 URL:https://www.esbnyc.com/about/tower-lights/calendar/202404
@@ -209,21 +224,31 @@ TRANSP:TRANSPARENT
 URL:https://www.esbnyc.com/about/tower-lights/calendar/202404
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ESB: Signature White
+SUMMARY:ESB: Blue And Orange
 DTSTART;VALUE=DATE:20240420
 SEQUENCE:0
 CLASS:PUBLIC
-DESCRIPTION:
+DESCRIPTION:In Celebration of the New York Knicks’ Home Playoff Game
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 URL:https://www.esbnyc.com/about/tower-lights/calendar/202404
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ESB: Signature White
+SUMMARY:ESB: Blue And White Pinstripes
+DTSTART;VALUE=DATE:20240420
+SEQUENCE:0
+CLASS:PUBLIC
+DESCRIPTION:From 8-9 p.m. in Honor of John Sterling's Retirement
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.esbnyc.com/about/tower-lights/calendar/202404
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ESB: Red\, White And Blue
 DTSTART;VALUE=DATE:20240421
 SEQUENCE:0
 CLASS:PUBLIC
-DESCRIPTION:
+DESCRIPTION:In Celebration of the New York Rangers’ Home Playoff Game
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 URL:https://www.esbnyc.com/about/tower-lights/calendar/202404
@@ -260,11 +285,11 @@ TRANSP:TRANSPARENT
 URL:https://www.esbnyc.com/about/tower-lights/calendar/202404
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ESB: Signature White
+SUMMARY:ESB: Blue And Orange
 DTSTART;VALUE=DATE:20240425
 SEQUENCE:0
 CLASS:PUBLIC
-DESCRIPTION:
+DESCRIPTION:In Celebration of the New York Islanders’ Home Playoff Game
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 URL:https://www.esbnyc.com/about/tower-lights/calendar/202404
