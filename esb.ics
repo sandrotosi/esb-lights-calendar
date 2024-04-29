@@ -345,11 +345,11 @@ TRANSP:TRANSPARENT
 URL:https://www.esbnyc.com/about/tower-lights/calendar/202404
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ESB: Multi-Color Sparkle
+SUMMARY:ESB: Purple And Blue
 DTSTART;VALUE=DATE:20240501
 SEQUENCE:0
 CLASS:PUBLIC
-DESCRIPTION:In Celebration of the Empire State Building's 93rd Birthday
+DESCRIPTION:In Honor of Police Memorial Day
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 URL:https://www.esbnyc.com/about/tower-lights/calendar/202405
