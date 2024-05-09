@@ -41,6 +41,50 @@
       "description": "In Honor of EU Day"
     }
   ],
+  "13": [
+    {
+      "color": "Green Sparkle",
+      "description": "In Partnership with the Robin Hood Foundation in Celebration of the 2024 Benefit"
+    }
+  ],
+  "14": [
+    {
+      "color": "Purple And Gold",
+      "description": "In Partnership with The Westminster Kennel Club in Honor of the 2024 Westminster Kennel Club Dog Show"
+    }
+  ],
+  "15": [
+    {
+      "color": "Blue",
+      "description": "In Celebration of Columbia University\u2019s 2024 Graduates"
+    }
+  ],
+  "16": [
+    {
+      "color": "Dynamic Purple & White Light Show",
+      "description": "In Celebration of New York University\u2019s 2024 Commencement"
+    },
+    {
+      "color": "Orange",
+      "description": "In Partnership with JBL and NAMM in Celebration of JBL Fest"
+    }
+  ],
+  "18": [
+    {
+      "color": "Maroon",
+      "description": "In Celebration of Fordham University\u2019s 2024 Commencement"
+    },
+    {
+      "color": "Seafoam",
+      "description": "9:00 - 10:00 p.m.: In Celebration of New York Liberty's Home Opener"
+    }
+  ],
+  "19": [
+    {
+      "color": "Yellow, White And Blue With A Red Siren In The Mast",
+      "description": "In Honor of EMS Week in Partnership with the FDNY"
+    }
+  ],
   "25": [
     {
       "color": "Red, White And Blue",
@@ -57,6 +101,12 @@
     {
       "color": "Red, White And Blue",
       "description": "In Honor of Memorial Day"
+    }
+  ],
+  "28": [
+    {
+      "color": "Red, White And Blue",
+      "description": "In Celebration of the French Open"
     }
   ]
 }
