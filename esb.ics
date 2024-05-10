@@ -176,20 +176,10 @@ URL:https://www.esbnyc.com/about/tower-lights/calendar/202405
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ESB: Orange
-DTSTART;VALUE=DATE:20240516
-SEQUENCE:0
-CLASS:PUBLIC
-DESCRIPTION:In Partnership with JBL and NAMM in Celebration of JBL Fest
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-URL:https://www.esbnyc.com/about/tower-lights/calendar/202405
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ESB: Signature White
 DTSTART;VALUE=DATE:20240517
 SEQUENCE:0
 CLASS:PUBLIC
-DESCRIPTION:
+DESCRIPTION:In Partnership with JBL and NAMM in Celebration of JBL Fest
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 URL:https://www.esbnyc.com/about/tower-lights/calendar/202405
