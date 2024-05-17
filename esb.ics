@@ -185,22 +185,22 @@ TRANSP:TRANSPARENT
 URL:https://www.esbnyc.com/about/tower-lights/calendar/202405
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ESB: Maroon
-DTSTART;VALUE=DATE:20240518
+SUMMARY:ESB: Seafoam
+DTSTART;VALUE=DATE:20240517
 SEQUENCE:0
 CLASS:PUBLIC
-DESCRIPTION:In Celebration of Fordham University’s 2024 Commencement
+DESCRIPTION:10:00 pm – 11:00 pm: In Celebration of the New York Liberty
+ ’s Home Opener
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 URL:https://www.esbnyc.com/about/tower-lights/calendar/202405
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ESB: Seafoam
+SUMMARY:ESB: Maroon
 DTSTART;VALUE=DATE:20240518
 SEQUENCE:0
 CLASS:PUBLIC
-DESCRIPTION:9:00 - 10:00 p.m.: In Celebration of New York Liberty's Home O
- pener
+DESCRIPTION:In Celebration of Fordham University’s 2024 Commencement
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 URL:https://www.esbnyc.com/about/tower-lights/calendar/202405
