@@ -87,6 +87,18 @@
       "description": "In Honor of EMS Week in Partnership with the FDNY"
     }
   ],
+  "20": [
+    {
+      "color": "Green And Blue",
+      "description": "In Partnership with the Children\u2019s Tumor Foundation in Honor of World NF Day"
+    }
+  ],
+  "22": [
+    {
+      "color": "Red, White And Blue",
+      "description": "In Celebration of the New York Ranger\u2019s Semi-Final Home Playoff Game"
+    }
+  ],
   "25": [
     {
       "color": "Red, White And Blue",
@@ -109,6 +121,12 @@
     {
       "color": "Red, White And Blue",
       "description": "In Celebration of the French Open"
+    }
+  ],
+  "29": [
+    {
+      "color": "Red, White And Green",
+      "description": "In Partnership with Asociacion Gilberto AC in Celebration of the Release of Pepe Aguilar\u2019s New Album"
     }
   ]
 }
