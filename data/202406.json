@@ -11,10 +11,40 @@
       "description": "In Partnership with the NYC Police Foundation in Honor of the 2024 Gala"
     }
   ],
+  "7": [
+    {
+      "color": "Orange",
+      "description": "In Partnership with Everytown for Gun Safety in Honor of National Gun Violence Awareness Day"
+    }
+  ],
+  "8": [
+    {
+      "color": "Red",
+      "description": "In Honor of Black Music Month, Final Season Premiere of \"Power Book II: Ghost\" and the \"Power\" Universe 10 Year Anniversary"
+    }
+  ],
   "19": [
     {
       "color": "Red, Black And Green",
       "description": "In Honor of Juneteenth"
+    }
+  ],
+  "25": [
+    {
+      "color": "Split Lights: Blue & Orange For The New York Mets And Pinstripes For The New York Yankees",
+      "description": "In Celebration of the 2024 Subway Series"
+    }
+  ],
+  "26": [
+    {
+      "color": "Split Lights: Blue & Orange For The New York Mets And Pinstripes For The New York Yankees",
+      "description": "In Celebration of the 2024 Subway Series"
+    }
+  ],
+  "30": [
+    {
+      "color": "Rainbow",
+      "description": "In Celebration of New York City Pride"
     }
   ]
 }
