@@ -163,31 +163,41 @@ TRANSP:TRANSPARENT
 URL:https://www.esbnyc.com/about/tower-lights/calendar/202406
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ESB: Signature White
+SUMMARY:ESB: Dynamic Light Show
 DTSTART;VALUE=DATE:20240616
 SEQUENCE:0
 CLASS:PUBLIC
-DESCRIPTION:
+DESCRIPTION:In Partnership with Max's House of the Dragon
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 URL:https://www.esbnyc.com/about/tower-lights/calendar/202406
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ESB: Signature White
+SUMMARY:ESB: Dynamic Light Show
+DTSTART;VALUE=DATE:20240616
+SEQUENCE:0
+CLASS:PUBLIC
+DESCRIPTION:In Partnership with Max's "House of the Dragon"
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.esbnyc.com/about/tower-lights/calendar/202406
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ESB: Dynamic Light Show
 DTSTART;VALUE=DATE:20240617
 SEQUENCE:0
 CLASS:PUBLIC
-DESCRIPTION:
+DESCRIPTION:In Partnership with Max's "House of the Dragon"
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 URL:https://www.esbnyc.com/about/tower-lights/calendar/202406
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ESB: Signature White
+SUMMARY:ESB: Dynamic Light Show
 DTSTART;VALUE=DATE:20240618
 SEQUENCE:0
 CLASS:PUBLIC
-DESCRIPTION:
+DESCRIPTION:In Partnership with Max's "House of the Dragon"
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 URL:https://www.esbnyc.com/about/tower-lights/calendar/202406
@@ -198,6 +208,16 @@ DTSTART;VALUE=DATE:20240619
 SEQUENCE:0
 CLASS:PUBLIC
 DESCRIPTION:In Honor of Juneteenth
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.esbnyc.com/about/tower-lights/calendar/202406
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ESB: Dynamic Light Show
+DTSTART;VALUE=DATE:20240619
+SEQUENCE:0
+CLASS:PUBLIC
+DESCRIPTION:In Partnership with Max's "House of the Dragon"
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 URL:https://www.esbnyc.com/about/tower-lights/calendar/202406
