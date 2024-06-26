@@ -254,11 +254,25 @@ TRANSP:TRANSPARENT
 URL:https://www.esbnyc.com/about/tower-lights/calendar/202406
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ESB: Signature White
+SUMMARY:ESB: Tripadvisor Green
 DTSTART;VALUE=DATE:20240625
 SEQUENCE:0
 CLASS:PUBLIC
-DESCRIPTION:
+DESCRIPTION:In Celebration of the Empire State Building Observatory Being 
+ Named #1 Attraction in the World & #1 in the U.S. in 2024 Tripadvisor Trav
+ elers' Choice Awards
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.esbnyc.com/about/tower-lights/calendar/202406
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ESB: Blue & Orange For New York Mets Or Pinstripes For New York Ya
+ nkees
+DTSTART;VALUE=DATE:20240625
+SEQUENCE:0
+CLASS:PUBLIC
+DESCRIPTION:ESB will Light for the Winner of Mets vs. Yankees Subway Serie
+ s Game for 1 Hour Following the Game
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 URL:https://www.esbnyc.com/about/tower-lights/calendar/202406
