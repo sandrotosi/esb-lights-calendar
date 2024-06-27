@@ -289,6 +289,17 @@ TRANSP:TRANSPARENT
 URL:https://www.esbnyc.com/about/tower-lights/calendar/202406
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:ESB: Purple
+DTSTART;VALUE=DATE:20240626
+SEQUENCE:0
+CLASS:PUBLIC
+DESCRIPTION:From 9 - 10 p.m.: In Partnership with McDonald's in Celebratio
+ n of Grimace's Birthday
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.esbnyc.com/about/tower-lights/calendar/202406
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:ESB: Nba Red\, White And Blue
 DTSTART;VALUE=DATE:20240627
 SEQUENCE:0
