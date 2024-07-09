@@ -1,8 +1,26 @@
 {
+  "2": [
+    {
+      "color": "Red, White And Blue",
+      "description": "In Honor of Fourth of July"
+    }
+  ],
+  "3": [
+    {
+      "color": "Red, White And Blue",
+      "description": "In Honor of Fourth of July"
+    }
+  ],
   "4": [
     {
       "color": "Red, White And Blue",
       "description": "In Honor of Fourth of July"
+    }
+  ],
+  "8": [
+    {
+      "color": "Red",
+      "description": "In Celebration of WNYC's 100th Anniversary"
     }
   ]
 }
