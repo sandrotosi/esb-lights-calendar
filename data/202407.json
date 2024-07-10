@@ -22,5 +22,23 @@
       "color": "Red",
       "description": "In Celebration of WNYC's 100th Anniversary"
     }
+  ],
+  "13": [
+    {
+      "color": "White, Green And Purple",
+      "description": "In Partnership with Wimbledon in Celebration of The Championships and The Hill in New York"
+    }
+  ],
+  "14": [
+    {
+      "color": "Blue, White And Red",
+      "description": "In Partnership with the Consulate General of France in New York in Honor of Bastille Day"
+    }
+  ],
+  "20": [
+    {
+      "color": "Red, Blue And Yellow",
+      "description": "In Honor of Colombian Independence Day"
+    }
   ]
 }
