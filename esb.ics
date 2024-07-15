@@ -151,6 +151,28 @@ TRANSP:TRANSPARENT
 URL:https://www.esbnyc.com/about/tower-lights/calendar/202407
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:ESB: Red\, Yellow And Blue
+DTSTART;VALUE=DATE:20240714
+SEQUENCE:0
+CLASS:PUBLIC
+DESCRIPTION:9-10 p.m.: In Celebration of Spain's UEFA European Championshi
+ p Victory
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.esbnyc.com/about/tower-lights/calendar/202407
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ESB: Light Blue\, White And Gold
+DTSTART;VALUE=DATE:20240714
+SEQUENCE:0
+CLASS:PUBLIC
+DESCRIPTION:Following the Copa América Finals in Celebration of Argentin
+ a's Victory
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.esbnyc.com/about/tower-lights/calendar/202407
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:ESB: Signature White
 DTSTART;VALUE=DATE:20240715
 SEQUENCE:0
