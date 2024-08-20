@@ -10,5 +10,23 @@
       "color": "Red, White And Blue",
       "description": "In Honor of Labor Day"
     }
+  ],
+  "9": [
+    {
+      "color": "Green",
+      "description": "In Celebration of the New York Jets\u2019 Season Opener"
+    }
+  ],
+  "11": [
+    {
+      "color": "Blue",
+      "description": "In Commemoration of September 11, 2001, in Partnership with the 9/11 Memorial & Museum"
+    }
+  ],
+  "15": [
+    {
+      "color": "Green, White And Red",
+      "description": "In Honor of Mexican Independence Day"
+    }
   ]
 }
