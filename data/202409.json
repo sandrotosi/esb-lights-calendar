@@ -11,10 +11,22 @@
       "description": "In Honor of Labor Day"
     }
   ],
+  "8": [
+    {
+      "color": "Blue",
+      "description": "In Celebration of the New York Giants\u2019 Home Opener"
+    }
+  ],
   "9": [
     {
       "color": "Green",
       "description": "In Celebration of the New York Jets\u2019 Season Opener"
+    }
+  ],
+  "10": [
+    {
+      "color": "Light Blue",
+      "description": "In Celebration of Le Sserafim \u2018CRAZY\u2019 Album Release in Partnership with the Ryan Seacrest Foundation"
     }
   ],
   "11": [
@@ -27,6 +39,18 @@
     {
       "color": "Green, White And Red",
       "description": "In Honor of Mexican Independence Day"
+    }
+  ],
+  "16": [
+    {
+      "color": "White And Blue",
+      "description": "In Celebration of the American Kennel Club\u2019s 140th Anniversary"
+    }
+  ],
+  "18": [
+    {
+      "color": "Red, White And Blue",
+      "description": "In Partnership with The Bob Woodruff Foundation in Celebration of Sebastian Maniscalco\u2019s Record Breaking Madison Square Garden Tour Dates"
     }
   ]
 }
