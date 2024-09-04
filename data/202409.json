@@ -47,10 +47,22 @@
       "description": "In Celebration of the American Kennel Club\u2019s 140th Anniversary"
     }
   ],
+  "17": [
+    {
+      "color": "Purple",
+      "description": "In Partnership With MAX and Latino Film Festival in Celebration of the Premiere of The Penguin"
+    }
+  ],
   "18": [
     {
       "color": "Red, White And Blue",
       "description": "In Partnership with The Bob Woodruff Foundation in Celebration of Sebastian Maniscalco\u2019s Record Breaking Madison Square Garden Tour Dates"
+    }
+  ],
+  "22": [
+    {
+      "color": "Blue",
+      "description": "In Partnership with the Clinton Foundation in Honor of Clinton Global Initiative 2024"
     }
   ]
 }
