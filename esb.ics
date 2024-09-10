@@ -173,12 +173,11 @@ TRANSP:TRANSPARENT
 URL:https://www.esbnyc.com/about/tower-lights/calendar/202409
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ESB: Purple
+SUMMARY:ESB: Signature White
 DTSTART;VALUE=DATE:20240917
 SEQUENCE:0
 CLASS:PUBLIC
-DESCRIPTION:In Partnership With MAX and Latino Film Festival in Celebratio
- n of the Premiere of The Penguin
+DESCRIPTION:
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 URL:https://www.esbnyc.com/about/tower-lights/calendar/202409
