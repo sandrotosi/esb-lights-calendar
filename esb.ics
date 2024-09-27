@@ -307,12 +307,11 @@ TRANSP:TRANSPARENT
 URL:https://www.esbnyc.com/about/tower-lights/calendar/202409
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ESB: Red
+SUMMARY:ESB: Signature White
 DTSTART;VALUE=DATE:20240930
 SEQUENCE:0
 CLASS:PUBLIC
-DESCRIPTION:In Celebration of HOLA! Magazine’s 80th Anniversary and Hisp
- anic Heritage Month
+DESCRIPTION:
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 URL:https://www.esbnyc.com/about/tower-lights/calendar/202409
