@@ -10,13 +10,11 @@ certifi==2024.7.4
     # via requests
 charset-normalizer==2.0.1
     # via requests
-icalendar==5.0.13
+icalendar==6.0.0
     # via -r requirements.in
 idna==3.7
     # via requests
 python-dateutil==2.8.1
-    # via icalendar
-pytz==2021.1
     # via icalendar
 requests==2.32.3
     # via -r requirements.in
@@ -24,5 +22,7 @@ six==1.15.0
     # via python-dateutil
 soupsieve==2.2.1
     # via beautifulsoup4
+tzdata==2024.2
+    # via icalendar
 urllib3==1.26.19
     # via requests
