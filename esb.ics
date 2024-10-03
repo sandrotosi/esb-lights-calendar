@@ -30,11 +30,13 @@ TRANSP:TRANSPARENT
 URL:https://www.esbnyc.com/about/tower-lights/calendar/202410
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ESB: Signature White
+SUMMARY:ESB: Blue And Red
 DTSTART;VALUE=DATE:20241003
 SEQUENCE:0
 CLASS:PUBLIC
-DESCRIPTION:
+DESCRIPTION:In Partnership with The N.Y. Police and Fire Widows' and Child
+ ren's Benefit Fund\, also known as Answer the Call\, in Honor of NYC Falle
+ n First Responders
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 URL:https://www.esbnyc.com/about/tower-lights/calendar/202410
