@@ -14,7 +14,7 @@ DTSTART;VALUE=DATE:20241001
 SEQUENCE:0
 CLASS:PUBLIC
 DESCRIPTION:In Partnership with Estée Lauder in Honor of Breast Cancer Aw
- areness Month
+ areness Month.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 URL:https://www.esbnyc.com/about/tower-lights/calendar/202410
@@ -46,7 +46,7 @@ SUMMARY:ESB: Blue
 DTSTART;VALUE=DATE:20241004
 SEQUENCE:0
 CLASS:PUBLIC
-DESCRIPTION:In Partnership with Smile Train in Honor of World Smile Day
+DESCRIPTION:In Partnership with Smile Train in Honor of World Smile Day.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 URL:https://www.esbnyc.com/about/tower-lights/calendar/202410
