@@ -113,11 +113,25 @@ TRANSP:TRANSPARENT
 URL:https://www.esbnyc.com/about/tower-lights/calendar/202410
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ESB: Signature White
+SUMMARY:ESB: Blue\, Yellow\, Red And Orange
+DTSTART;VALUE=DATE:20241010
+SEQUENCE:0
+CLASS:PUBLIC
+DESCRIPTION:In Partnership with the Christopher and Dana Reeve Foundation 
+ in Celebration of the Premiere of “Super/Man: The Christopher Reeve Stor
+ y”
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.esbnyc.com/about/tower-lights/calendar/202410
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ESB: Rotation Of Countries' Flags That Celebrate Hispanic Heritage
+  Month
 DTSTART;VALUE=DATE:20241011
 SEQUENCE:0
 CLASS:PUBLIC
-DESCRIPTION:
+DESCRIPTION:In Partnership with FloyyMenor in Celebration of Hispanic Heri
+ tage Month
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 URL:https://www.esbnyc.com/about/tower-lights/calendar/202410
