@@ -118,9 +118,9 @@ SUMMARY:ESB: Blue\, Yellow\, Red And Orange
 DTSTART;VALUE=DATE:20241010
 SEQUENCE:0
 CLASS:PUBLIC
-DESCRIPTION:In Partnership with the Christopher and Dana Reeve Foundation 
- in Celebration of the Premiere of “Super/Man: The Christopher Reeve Stor
- y”
+DESCRIPTION:In Partnership with the Christopher & Dana Reeve Foundation in
+  Celebration of the Premiere of “Super/Man: The Christopher Reeve Story
+ ”
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 URL:https://www.esbnyc.com/about/tower-lights/calendar/202410
@@ -329,12 +329,11 @@ TRANSP:TRANSPARENT
 URL:https://www.esbnyc.com/about/tower-lights/calendar/202410
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ESB: Spooky Led Lighting Effects Featuring Pumpkins\, Witches And 
- Ghosts In The Mast Along With Flashing Lights
+SUMMARY:ESB: Signature White
 DTSTART;VALUE=DATE:20241031
 SEQUENCE:0
 CLASS:PUBLIC
-DESCRIPTION:In Celebration of Halloween
+DESCRIPTION:
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 URL:https://www.esbnyc.com/about/tower-lights/calendar/202410
