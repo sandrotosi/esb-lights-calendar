@@ -104,16 +104,6 @@ TRANSP:TRANSPARENT
 URL:https://www.esbnyc.com/about/tower-lights/calendar/202410
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ESB: Blue And Orange
-DTSTART;VALUE=DATE:20241010
-SEQUENCE:0
-CLASS:PUBLIC
-DESCRIPTION:In Celebration of the New York Islanders’ Home Opener
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-URL:https://www.esbnyc.com/about/tower-lights/calendar/202410
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:ESB: Blue\, Yellow\, Red And Orange
 DTSTART;VALUE=DATE:20241010
 SEQUENCE:0
@@ -121,6 +111,17 @@ CLASS:PUBLIC
 DESCRIPTION:In Partnership with the Christopher & Dana Reeve Foundation in
   Celebration of the Premiere of “Super/Man: The Christopher Reeve Story
  ”
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.esbnyc.com/about/tower-lights/calendar/202410
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ESB: Blue And Orange
+DTSTART;VALUE=DATE:20241010
+SEQUENCE:0
+CLASS:PUBLIC
+DESCRIPTION:7:30 PM – 9:30 PM: In Celebration of the New York Islanders
+ ’ Home Opener
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 URL:https://www.esbnyc.com/about/tower-lights/calendar/202410
@@ -162,7 +163,7 @@ SUMMARY:ESB: Red\, White And Green
 DTSTART;VALUE=DATE:20241014
 SEQUENCE:0
 CLASS:PUBLIC
-DESCRIPTION:In Honor of Italian Heritage Day/Indigenous Peoples' Day
+DESCRIPTION:In Honor of Columbus Day
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 URL:https://www.esbnyc.com/about/tower-lights/calendar/202410

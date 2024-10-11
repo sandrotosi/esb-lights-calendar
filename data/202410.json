@@ -31,12 +31,12 @@
   ],
   "10": [
     {
-      "color": "Blue And Orange",
-      "description": "In Celebration of the New York Islanders\u2019 Home Opener"
-    },
-    {
       "color": "Blue, Yellow, Red And Orange",
       "description": "In Partnership with the Christopher & Dana Reeve Foundation in Celebration of the Premiere of \u201cSuper/Man: The Christopher Reeve Story\u201d"
+    },
+    {
+      "color": "Blue And Orange",
+      "description": "7:30 PM \u2013 9:30 PM: In Celebration of the New York Islanders\u2019 Home Opener"
     }
   ],
   "11": [
@@ -54,7 +54,7 @@
   "14": [
     {
       "color": "Red, White And Green",
-      "description": "In Honor of Italian Heritage Day/Indigenous Peoples' Day"
+      "description": "In Honor of Columbus Day"
     }
   ],
   "18": [
