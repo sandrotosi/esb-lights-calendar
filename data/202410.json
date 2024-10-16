@@ -57,10 +57,28 @@
       "description": "In Honor of Columbus Day"
     }
   ],
+  "15": [
+    {
+      "color": "Pink",
+      "description": "In Celebration of the Return of Victoria\u2019s Secret Fashion Show"
+    }
+  ],
   "18": [
     {
       "color": "Blue",
       "description": "In Honor of the Final Season of Blue Bloods in Partnership with CBS and DEA Widows\u2019 and Children\u2019s Fund"
+    }
+  ],
+  "25": [
+    {
+      "color": "Blue And Orange",
+      "description": "In Celebration of the New York Knicks\u2019 Home Opener"
+    }
+  ],
+  "28": [
+    {
+      "color": "Light Blue And Rose",
+      "description": "In Partnership with UNISECO in Celebration of SEVENTEEN\u2019s Album Release"
     }
   ]
 }
