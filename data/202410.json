@@ -75,6 +75,12 @@
       "description": "In Honor of the Final Season of Blue Bloods in Partnership with CBS and DEA Widows\u2019 and Children\u2019s Fund"
     }
   ],
+  "24": [
+    {
+      "color": "Red And White",
+      "description": "In Celebration of HOLA! Magazine\u2019s 80th Anniversary"
+    }
+  ],
   "25": [
     {
       "color": "Blue And Orange",
@@ -85,6 +91,12 @@
     {
       "color": "Light Blue And Rose",
       "description": "In Partnership with UNISECO in Celebration of SEVENTEEN\u2019s Album Release"
+    }
+  ],
+  "30": [
+    {
+      "color": "Yellow",
+      "description": "In Celebration of Playbill\u2019s 140th Anniversary"
     }
   ]
 }
