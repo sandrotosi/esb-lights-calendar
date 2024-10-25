@@ -306,8 +306,8 @@ SUMMARY:ESB: Light Blue And Rose
 DTSTART;VALUE=DATE:20241028
 SEQUENCE:0
 CLASS:PUBLIC
-DESCRIPTION:In Partnership with UNISECO in Celebration of SEVENTEEN’s Al
- bum Release
+DESCRIPTION:In Partnership with UNESCO in Celebration of SEVENTEEN’s Alb
+ um Release
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 URL:https://www.esbnyc.com/about/tower-lights/calendar/202410
@@ -354,11 +354,12 @@ TRANSP:TRANSPARENT
 URL:https://www.esbnyc.com/about/tower-lights/calendar/202411
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ESB: Signature White
+SUMMARY:ESB: Blue\, Pink And Orange
 DTSTART;VALUE=DATE:20241102
 SEQUENCE:0
 CLASS:PUBLIC
-DESCRIPTION:
+DESCRIPTION:In Partnership with the New York Road Runners in Celebration o
+ f the TCS NYC Marathon
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 URL:https://www.esbnyc.com/about/tower-lights/calendar/202411
