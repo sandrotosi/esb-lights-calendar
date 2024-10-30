@@ -323,21 +323,21 @@ TRANSP:TRANSPARENT
 URL:https://www.esbnyc.com/about/tower-lights/calendar/202410
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ESB: Yellow
+SUMMARY:ESB: Signature White
 DTSTART;VALUE=DATE:20241030
 SEQUENCE:0
 CLASS:PUBLIC
-DESCRIPTION:In Celebration of Playbill’s 140th Anniversary
+DESCRIPTION:
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 URL:https://www.esbnyc.com/about/tower-lights/calendar/202410
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ESB: Signature White
+SUMMARY:ESB: Orange And Green
 DTSTART;VALUE=DATE:20241031
 SEQUENCE:0
 CLASS:PUBLIC
-DESCRIPTION:
+DESCRIPTION:In Celebration of Halloween
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 URL:https://www.esbnyc.com/about/tower-lights/calendar/202410
