@@ -200,111 +200,126 @@ TRANSP:TRANSPARENT
 URL:https://www.esbnyc.com/about/tower-lights/calendar/202412
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ESB: Signature White
+SUMMARY:ESB: Dynamic Light Show
 DTSTART;VALUE=DATE:20241220
 SEQUENCE:0
 CLASS:PUBLIC
-DESCRIPTION:
+DESCRIPTION:7:00 pm – Annual Holiday Music-to-Light Show
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 URL:https://www.esbnyc.com/about/tower-lights/calendar/202412
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ESB: Signature White
+SUMMARY:ESB: Dynamic Light Show
 DTSTART;VALUE=DATE:20241221
 SEQUENCE:0
 CLASS:PUBLIC
-DESCRIPTION:
+DESCRIPTION:7:00 pm – Annual Holiday Music-to-Light Show
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 URL:https://www.esbnyc.com/about/tower-lights/calendar/202412
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ESB: Signature White
+SUMMARY:ESB: Dynamic Light Show
 DTSTART;VALUE=DATE:20241222
 SEQUENCE:0
 CLASS:PUBLIC
-DESCRIPTION:
+DESCRIPTION:7:00 pm – Annual Holiday Music-to-Light Show
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 URL:https://www.esbnyc.com/about/tower-lights/calendar/202412
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ESB: Signature White
+SUMMARY:ESB: Dynamic Light Show
 DTSTART;VALUE=DATE:20241223
 SEQUENCE:0
 CLASS:PUBLIC
-DESCRIPTION:
+DESCRIPTION:7:00 pm – Annual Holiday Music-to-Light Show
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 URL:https://www.esbnyc.com/about/tower-lights/calendar/202412
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ESB: Signature White
+SUMMARY:ESB: Red & White Stripes With A Christmas Tree Swirling In The Mas
+ t
 DTSTART;VALUE=DATE:20241224
 SEQUENCE:0
 CLASS:PUBLIC
-DESCRIPTION:
+DESCRIPTION:In Celebration of Christmas. 7:00 pm – Annual Holiday Music-
+ to-Light Show
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 URL:https://www.esbnyc.com/about/tower-lights/calendar/202412
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ESB: Signature White
+SUMMARY:ESB: Split Lights: Red & White Stripes With A Christmas Tree Swirl
+ ing In The Mast And Blue & White Stripes With A Candle Flickering In The M
+ ast
 DTSTART;VALUE=DATE:20241225
 SEQUENCE:0
 CLASS:PUBLIC
-DESCRIPTION:
+DESCRIPTION:In Celebration of Christmas and Hanukkah. 7:00 pm – Annual H
+ oliday Music-to-Light Show
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 URL:https://www.esbnyc.com/about/tower-lights/calendar/202412
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ESB: Signature White
+SUMMARY:ESB: Split Lights: Red & White Stripes With A Christmas Tree Swirl
+ ing In The Mast And Blue & White Stripes With A Candle Flickering In The M
+ ast
 DTSTART;VALUE=DATE:20241226
 SEQUENCE:0
 CLASS:PUBLIC
-DESCRIPTION:
+DESCRIPTION:In Celebration of Christmas and Hanukkah
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 URL:https://www.esbnyc.com/about/tower-lights/calendar/202412
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ESB: Signature White
+SUMMARY:ESB: Split Lights: Red & White Stripes With A Christmas Tree Swirl
+ ing In The Mast And Blue & White Stripes With A Candle Flickering In The M
+ ast
 DTSTART;VALUE=DATE:20241227
 SEQUENCE:0
 CLASS:PUBLIC
-DESCRIPTION:
+DESCRIPTION:In Celebration of Christmas and Hanukkah
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 URL:https://www.esbnyc.com/about/tower-lights/calendar/202412
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ESB: Signature White
+SUMMARY:ESB: Split Lights: Red & White Stripes With A Christmas Tree Swirl
+ ing In The Mast And Blue & White Stripes With A Candle Flickering In The M
+ ast
 DTSTART;VALUE=DATE:20241228
 SEQUENCE:0
 CLASS:PUBLIC
-DESCRIPTION:
+DESCRIPTION:In Celebration of Christmas and Hanukkah
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 URL:https://www.esbnyc.com/about/tower-lights/calendar/202412
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ESB: Signature White
+SUMMARY:ESB: Split Lights: Red & White Stripes With A Christmas Tree Swirl
+ ing In The Mast And Blue & White Stripes With A Candle Flickering In The M
+ ast
 DTSTART;VALUE=DATE:20241229
 SEQUENCE:0
 CLASS:PUBLIC
-DESCRIPTION:
+DESCRIPTION:In Celebration of Christmas and Hanukkah
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 URL:https://www.esbnyc.com/about/tower-lights/calendar/202412
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ESB: Signature White
+SUMMARY:ESB: Split Lights: Red & White Stripes With A Christmas Tree Swirl
+ ing In The Mast And Blue & White Stripes With A Candle Flickering In The M
+ ast
 DTSTART;VALUE=DATE:20241230
 SEQUENCE:0
 CLASS:PUBLIC
-DESCRIPTION:
+DESCRIPTION:In Celebration of Christmas and Hanukkah
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 URL:https://www.esbnyc.com/about/tower-lights/calendar/202412
@@ -314,7 +329,7 @@ SUMMARY:ESB: Multi-Color Sparkle
 DTSTART;VALUE=DATE:20241231
 SEQUENCE:0
 CLASS:PUBLIC
-DESCRIPTION:In Celebration of New Year's Day
+DESCRIPTION:In Celebration of New Year’s Eve
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 URL:https://www.esbnyc.com/about/tower-lights/calendar/202412
