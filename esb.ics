@@ -210,7 +210,9 @@ SUMMARY:ESB: Red\, Black And Green
 DTSTART;VALUE=DATE:20250120
 SEQUENCE:0
 CLASS:PUBLIC
-DESCRIPTION:In Honor of Martin Luther King Jr. Day
+DESCRIPTION:In Honor of Martin Luther King Jr. Day. Following the end of t
+ he College Football National Championship ESB will Light in the Winning Te
+ am’s Colors for the Remainder of the Night
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 URL:https://www.esbnyc.com/about/tower-lights/calendar/202501
@@ -276,17 +278,6 @@ TRANSP:TRANSPARENT
 URL:https://www.esbnyc.com/about/tower-lights/calendar/202501
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ESB: Red
-DTSTART;VALUE=DATE:20250127
-SEQUENCE:0
-CLASS:PUBLIC
-DESCRIPTION:In Partnership with Consulate General of the People’s Republ
- ic of China in New York in Celebration of Lunar New Year
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-URL:https://www.esbnyc.com/about/tower-lights/calendar/202501
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:ESB: Yellow
 DTSTART;VALUE=DATE:20250127
 SEQUENCE:0
@@ -308,11 +299,12 @@ TRANSP:TRANSPARENT
 URL:https://www.esbnyc.com/about/tower-lights/calendar/202501
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ESB: Signature White
+SUMMARY:ESB: Red
 DTSTART;VALUE=DATE:20250129
 SEQUENCE:0
 CLASS:PUBLIC
-DESCRIPTION:
+DESCRIPTION:In Partnership with Consulate General of the People’s Republ
+ ic of China in New York in Celebration of Lunar New Year
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 URL:https://www.esbnyc.com/about/tower-lights/calendar/202501
