@@ -35,6 +35,18 @@
       "description": "In Honor of Martin Luther King Jr. Day. Following the end of the College Football National Championship ESB will Light in the Winning Team\u2019s Colors for the Remainder of the Night"
     }
   ],
+  "24": [
+    {
+      "color": "Purple, Yellow And Pink",
+      "description": "In Celebration of the 'Star Trek: Section 31' Premiere in Partnership with World Central Kitchen to Support the LA Wildfires"
+    }
+  ],
+  "25": [
+    {
+      "color": "Dynamic White, Navy Blue And Red With The No. 15 Rotating In The Mast",
+      "description": "In Partnership with the Brooklyn Nets in Honor of Vince Carter\u2019s No. 15 Jersey Retirement"
+    }
+  ],
   "27": [
     {
       "color": "Yellow",
@@ -45,6 +57,12 @@
     {
       "color": "Red",
       "description": "In Partnership with Consulate General of the People\u2019s Republic of China in New York in Celebration of Lunar New Year"
+    }
+  ],
+  "31": [
+    {
+      "color": "Blue And Yellow",
+      "description": "In Partnership with Scholastic in Celebration of the Premiere of DOG MAN and the Celebrating Heroes Around the World Campaign"
     }
   ]
 }

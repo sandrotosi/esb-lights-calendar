@@ -248,21 +248,24 @@ TRANSP:TRANSPARENT
 URL:https://www.esbnyc.com/about/tower-lights/calendar/202501
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ESB: Signature White
+SUMMARY:ESB: Purple\, Yellow And Pink
 DTSTART;VALUE=DATE:20250124
 SEQUENCE:0
 CLASS:PUBLIC
-DESCRIPTION:
+DESCRIPTION:In Celebration of the 'Star Trek: Section 31' Premiere in Part
+ nership with World Central Kitchen to Support the LA Wildfires
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 URL:https://www.esbnyc.com/about/tower-lights/calendar/202501
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ESB: Signature White
+SUMMARY:ESB: Dynamic White\, Navy Blue And Red With The No. 15 Rotating In
+  The Mast
 DTSTART;VALUE=DATE:20250125
 SEQUENCE:0
 CLASS:PUBLIC
-DESCRIPTION:
+DESCRIPTION:In Partnership with the Brooklyn Nets in Honor of Vince Carter
+ ’s No. 15 Jersey Retirement
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 URL:https://www.esbnyc.com/about/tower-lights/calendar/202501
@@ -320,11 +323,12 @@ TRANSP:TRANSPARENT
 URL:https://www.esbnyc.com/about/tower-lights/calendar/202501
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ESB: Signature White
+SUMMARY:ESB: Blue And Yellow
 DTSTART;VALUE=DATE:20250131
 SEQUENCE:0
 CLASS:PUBLIC
-DESCRIPTION:
+DESCRIPTION:In Partnership with Scholastic in Celebration of the Premiere 
+ of DOG MAN and the Celebrating Heroes Around the World Campaign
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 URL:https://www.esbnyc.com/about/tower-lights/calendar/202501
