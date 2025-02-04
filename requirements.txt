@@ -4,7 +4,7 @@
 #
 #    pip-compile
 #
-beautifulsoup4==4.12.3
+beautifulsoup4==4.13.1
     # via -r requirements.in
 certifi==2024.7.4
     # via requests
@@ -21,6 +21,8 @@ requests==2.32.3
 six==1.15.0
     # via python-dateutil
 soupsieve==2.2.1
+    # via beautifulsoup4
+typing-extensions==4.12.2
     # via beautifulsoup4
 tzdata==2024.2
     # via icalendar
