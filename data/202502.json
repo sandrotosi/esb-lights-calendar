@@ -11,6 +11,12 @@
       "description": "In Partnership with Gold House in Celebration of Spring Festival"
     }
   ],
+  "5": [
+    {
+      "color": "Dark Blue, Gold, Light Blue And White",
+      "description": "In Celebration of New York Fashion Week"
+    }
+  ],
   "6": [
     {
       "color": "Red, Black And Green",
@@ -33,6 +39,18 @@
     {
       "color": "Pink Heartbeat",
       "description": "In Celebration of Valentine's Day"
+    }
+  ],
+  "16": [
+    {
+      "color": "Yellow, Orange, Red, Blue, Green And Gold",
+      "description": "In Partnership with NBC in Celebration of Saturday Night Live\u2019s 50th Anniversary"
+    }
+  ],
+  "17": [
+    {
+      "color": "Red, White And Blue",
+      "description": "In Honor of Presidents' Day"
     }
   ]
 }
