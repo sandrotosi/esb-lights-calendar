@@ -81,12 +81,11 @@ TRANSP:TRANSPARENT
 URL:https://www.esbnyc.com/about/tower-lights/calendar/202502
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ESB: Red
+SUMMARY:ESB: Signature White
 DTSTART;VALUE=DATE:20250208
 SEQUENCE:0
 CLASS:PUBLIC
-DESCRIPTION:In Partnership with the American Heart Association in Honor of
-  National Wear Red Day
+DESCRIPTION:
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 URL:https://www.esbnyc.com/about/tower-lights/calendar/202502
