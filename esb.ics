@@ -245,11 +245,12 @@ TRANSP:TRANSPARENT
 URL:https://www.esbnyc.com/about/tower-lights/calendar/202502
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ESB: Signature White
+SUMMARY:ESB: Red
 DTSTART;VALUE=DATE:20250224
 SEQUENCE:0
 CLASS:PUBLIC
-DESCRIPTION:
+DESCRIPTION:In Collaboration with Marvel Television\, Disney+ and American
+  Red Cross to Celebrate the NYC Launch Event for 'Daredevil: Born Again'
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 URL:https://www.esbnyc.com/about/tower-lights/calendar/202502
@@ -285,11 +286,12 @@ TRANSP:TRANSPARENT
 URL:https://www.esbnyc.com/about/tower-lights/calendar/202502
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ESB: Signature White
+SUMMARY:ESB: Pink\, Purple\, Blue And Green
 DTSTART;VALUE=DATE:20250228
 SEQUENCE:0
 CLASS:PUBLIC
-DESCRIPTION:
+DESCRIPTION:In Partnership with Rocket Pharmaceuticals in Honor of Rare Di
+ sease Day
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 URL:https://www.esbnyc.com/about/tower-lights/calendar/202502
@@ -525,12 +527,11 @@ TRANSP:TRANSPARENT
 URL:https://www.esbnyc.com/about/tower-lights/calendar/202503
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ESB: Red
+SUMMARY:ESB: Signature White
 DTSTART;VALUE=DATE:20250324
 SEQUENCE:0
 CLASS:PUBLIC
-DESCRIPTION:In Collaboration with Marvel Television\, Disney+ and American
-  Red Cross to Celebrate the NYC Launch Event for 'Daredevil: Born Again'
+DESCRIPTION:
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 URL:https://www.esbnyc.com/about/tower-lights/calendar/202503
