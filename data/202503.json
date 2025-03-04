@@ -1,8 +1,38 @@
 {
+  "6": [
+    {
+      "color": "Multi-Color Stripes With A Tartan Pattern In The Mast",
+      "description": "In Partnership with Trinity's Services and Food for the Homeless in Celebration of The Traitors Season 3 Finale on Peacock"
+    }
+  ],
+  "15": [
+    {
+      "color": "Colors Of The Winning Big East Team",
+      "description": "In Celebration of the BIG EAST Conference Men\u2019s Basketball Tournament Champion"
+    }
+  ],
   "17": [
     {
       "color": "Green Fades With The Irish Flag Rotating In The Mast",
       "description": "In Honor of St. Patrick's Day"
+    }
+  ],
+  "25": [
+    {
+      "color": "Red",
+      "description": "In Partnership with American Red Cross in Honor of American Red Cross Month"
+    }
+  ],
+  "27": [
+    {
+      "color": "Blue And White Pinstripes",
+      "description": "In Celebration of the New York Yankees\u2019 Season Opener"
+    }
+  ],
+  "28": [
+    {
+      "color": "Blue, Purple And White",
+      "description": "In Partnership with ABC News in Celebration of \u201cNightline\u2019s\u201d 45th Anniversary"
     }
   ]
 }
