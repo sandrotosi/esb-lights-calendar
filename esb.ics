@@ -348,11 +348,11 @@ TRANSP:TRANSPARENT
 URL:https://www.esbnyc.com/about/tower-lights/calendar/202504
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ESB: Blue And Orange
+SUMMARY:ESB: Signature White
 DTSTART;VALUE=DATE:20250403
 SEQUENCE:0
 CLASS:PUBLIC
-DESCRIPTION:In Celebration of the New York Mets’ Season Opener
+DESCRIPTION:
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 URL:https://www.esbnyc.com/about/tower-lights/calendar/202504
@@ -538,11 +538,11 @@ TRANSP:TRANSPARENT
 URL:https://www.esbnyc.com/about/tower-lights/calendar/202504
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ESB: Green
+SUMMARY:ESB: Signature White
 DTSTART;VALUE=DATE:20250422
 SEQUENCE:0
 CLASS:PUBLIC
-DESCRIPTION:In Celebration of Earth Day
+DESCRIPTION:
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 URL:https://www.esbnyc.com/about/tower-lights/calendar/202504
