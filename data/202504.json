@@ -4,5 +4,39 @@
       "color": "Blue And Orange",
       "description": "In Celebration of the New York Mets\u2019 Home Opener"
     }
+  ],
+  "4": [
+    {
+      "color": "Green And Gold",
+      "description": "In Partnership with the Great Barrier Reef Foundation in Celebration of Kylie Minogue\u2019s Madison Square Garden Show"
+    }
+  ],
+  "14": [
+    {
+      "color": "Orange",
+      "description": "In Celebration of the WNBA Draft"
+    }
+  ],
+  "20": [
+    {
+      "color": "Pastel Fades",
+      "description": "In Celebration of Easter"
+    }
+  ],
+  "22": [
+    {
+      "color": "Green",
+      "description": "In Celebration of Earth Day"
+    },
+    {
+      "color": "Orange",
+      "description": "In Partnership with Progyny and Resolve in Honor of National Infertility Awareness Week"
+    }
+  ],
+  "25": [
+    {
+      "color": "Green",
+      "description": "In Celebration of the Great Gatsby\u2019s100th Anniversary"
+    }
   ]
 }
