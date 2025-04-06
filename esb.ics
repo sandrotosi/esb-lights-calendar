@@ -50,11 +50,12 @@ TRANSP:TRANSPARENT
 URL:https://www.esbnyc.com/about/tower-lights/calendar/202504
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ESB: Signature White
+SUMMARY:ESB: Blue And Orange
 DTSTART;VALUE=DATE:20250405
 SEQUENCE:0
 CLASS:PUBLIC
-DESCRIPTION:
+DESCRIPTION:In Partnership with the New York Knicks in Honor of Carmelo An
+ thony’s Induction into the 2025 Hall of Fame Class
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 URL:https://www.esbnyc.com/about/tower-lights/calendar/202504
