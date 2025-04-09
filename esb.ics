@@ -111,11 +111,11 @@ TRANSP:TRANSPARENT
 URL:https://www.esbnyc.com/about/tower-lights/calendar/202504
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ESB: Signature White
+SUMMARY:ESB: Green
 DTSTART;VALUE=DATE:20250411
 SEQUENCE:0
 CLASS:PUBLIC
-DESCRIPTION:
+DESCRIPTION:In Celebration of the Great Gatsby’s 100th Anniversary
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 URL:https://www.esbnyc.com/about/tower-lights/calendar/202504
@@ -262,11 +262,11 @@ TRANSP:TRANSPARENT
 URL:https://www.esbnyc.com/about/tower-lights/calendar/202504
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ESB: Green
+SUMMARY:ESB: Signature White
 DTSTART;VALUE=DATE:20250425
 SEQUENCE:0
 CLASS:PUBLIC
-DESCRIPTION:In Celebration of the Great Gatsby’s100th Anniversary
+DESCRIPTION:
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 URL:https://www.esbnyc.com/about/tower-lights/calendar/202504
