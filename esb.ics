@@ -213,11 +213,12 @@ TRANSP:TRANSPARENT
 URL:https://www.esbnyc.com/about/tower-lights/calendar/202504
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ESB: Signature White
+SUMMARY:ESB: Orange
 DTSTART;VALUE=DATE:20250421
 SEQUENCE:0
 CLASS:PUBLIC
-DESCRIPTION:
+DESCRIPTION:In Partnership with Progyny and Resolve in Honor of National I
+ nfertility Awareness Week
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 URL:https://www.esbnyc.com/about/tower-lights/calendar/202504
@@ -228,17 +229,6 @@ DTSTART;VALUE=DATE:20250422
 SEQUENCE:0
 CLASS:PUBLIC
 DESCRIPTION:In Celebration of Earth Day
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-URL:https://www.esbnyc.com/about/tower-lights/calendar/202504
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ESB: Orange
-DTSTART;VALUE=DATE:20250422
-SEQUENCE:0
-CLASS:PUBLIC
-DESCRIPTION:In Partnership with Progyny and Resolve in Honor of National I
- nfertility Awareness Week
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 URL:https://www.esbnyc.com/about/tower-lights/calendar/202504

@@ -59,14 +59,16 @@
       "description": "In Celebration of Easter"
     }
   ],
+  "21": [
+    {
+      "color": "Orange",
+      "description": "In Partnership with Progyny and Resolve in Honor of National Infertility Awareness Week"
+    }
+  ],
   "22": [
     {
       "color": "Green",
       "description": "In Celebration of Earth Day"
-    },
-    {
-      "color": "Orange",
-      "description": "In Partnership with Progyny and Resolve in Honor of National Infertility Awareness Week"
     }
   ]
 }
