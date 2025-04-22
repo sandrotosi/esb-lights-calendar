@@ -3,6 +3,10 @@
     {
       "color": "Blue And Orange",
       "description": "In Celebration of the New York Mets\u2019 Home Opener"
+    },
+    {
+      "color": "Blue And Orange",
+      "description": "In Celebration of the New York Mets\u2019 Season Opener"
     }
   ],
   "4": [
@@ -76,6 +80,10 @@
     }
   ],
   "22": [
+    {
+      "color": "Green",
+      "description": "In Celebration of Earth Day"
+    },
     {
       "color": "Green",
       "description": "In Celebration of Earth Day"
