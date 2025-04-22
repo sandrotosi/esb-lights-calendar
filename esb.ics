@@ -214,12 +214,23 @@ TRANSP:TRANSPARENT
 URL:https://www.esbnyc.com/about/tower-lights/calendar/202504
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:ESB: Gold And White
+DTSTART;VALUE=DATE:20250421
+SEQUENCE:0
+CLASS:PUBLIC
+DESCRIPTION:From 10 p.m. - 2 a.m.: Empire State Building to Shine in Gold 
+ and White in Memory of Pope Francis
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.esbnyc.com/about/tower-lights/calendar/202504
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:ESB: Orange
 DTSTART;VALUE=DATE:20250421
 SEQUENCE:0
 CLASS:PUBLIC
-DESCRIPTION:In Partnership with Progyny and Resolve in Honor of National I
- nfertility Awareness Week
+DESCRIPTION:From sunset to 10 p.m.: In Partnership with Progyny and Resolv
+ e in Honor of National Infertility Awareness Week
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 URL:https://www.esbnyc.com/about/tower-lights/calendar/202504
