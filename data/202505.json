@@ -1,1 +1,26 @@
-{}
+{
+  "1": [
+    {
+      "color": "Blue And Purple",
+      "description": "In Honor of Police Memorial Day"
+    }
+  ],
+  "5": [
+    {
+      "color": "Green",
+      "description": "In Partnership with City Harvest in Honor of the Share Lunch Fight Hunger Campaign"
+    }
+  ],
+  "6": [
+    {
+      "color": "Magenta",
+      "description": "In Partnership with EF in Honor of Teacher Appreciation Week"
+    }
+  ],
+  "13": [
+    {
+      "color": "Cyan",
+      "description": "In Celebration of Sports Illustrated Swimsuit\u2019s Annual 2025 Issue Debut"
+    }
+  ]
+}
