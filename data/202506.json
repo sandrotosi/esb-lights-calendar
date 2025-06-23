@@ -22,5 +22,23 @@
       "color": "Red, Black And Green",
       "description": "In Honor of Juneteenth"
     }
+  ],
+  "23": [
+    {
+      "color": "Purple And Gold",
+      "description": "In Celebration of Louisiana State University's 2025 College World Series Victory"
+    }
+  ],
+  "24": [
+    {
+      "color": "Red, White And Blue",
+      "description": "In Celebration of the 2025 NBA Draft"
+    }
+  ],
+  "29": [
+    {
+      "color": "Rainbow",
+      "description": "In Celebration of New York City Pride"
+    }
   ]
 }
