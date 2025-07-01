@@ -4,5 +4,29 @@
       "color": "Red And White",
       "description": "In Honor of Canada Day"
     }
+  ],
+  "4": [
+    {
+      "color": "Red, White And Blue",
+      "description": "In Honor of Fourth of July"
+    }
+  ],
+  "5": [
+    {
+      "color": "Split Lights: Blue & Orange For The New York Mets And Yankees Pinstripes For The New York Yankees",
+      "description": "In Honor of the Subway Series"
+    }
+  ],
+  "6": [
+    {
+      "color": "Split Lights: Blue & Orange For The New York Mets And Yankees Pinstripes For The New York Yankees",
+      "description": "In Honor of the Subway Series"
+    }
+  ],
+  "8": [
+    {
+      "color": "Red",
+      "description": "In Partnership with the New York Blood Center in Celebration of the Premiere of Dexter: Resurrection"
+    }
   ]
 }
