@@ -1,12 +1,12 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 DESCRIPTION:Show what light display is shown on the Empire State Building
+X-WR-CALDESC:Show what light display is shown on the Empire State Building
 NAME:Empire State Building Lights
+X-WR-CALNAME:Empire State Building Lights
 REFRESH-INTERVAL;VALUE=DURATION:P1H
 URL:https://sandrotosi.github.io/esb-lights-calendar/esb.ics
 X-PUBLISHED-TTL:PT6H
-X-WR-CALDESC:Show what light display is shown on the Empire State Building
-X-WR-CALNAME:Empire State Building Lights
 X-WR-TIMEZONE:UTC
 BEGIN:VEVENT
 SUMMARY:ESB: Red And White
