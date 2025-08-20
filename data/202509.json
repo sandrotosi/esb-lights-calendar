@@ -1,8 +1,20 @@
 {
+  "1": [
+    {
+      "color": "Red, White And Blue",
+      "description": "In Honor of Labor Day Weekend"
+    }
+  ],
   "11": [
     {
       "color": "Blue",
       "description": "In Memory of 9/11 in Partnership with The National September 11 Memorial & Museum"
+    }
+  ],
+  "23": [
+    {
+      "color": "Light Blue",
+      "description": "In Honor of the United Nations\u2019 80th Anniversary"
     }
   ]
 }

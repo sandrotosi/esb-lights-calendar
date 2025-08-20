@@ -16,5 +16,27 @@
       "color": "Teal",
       "description": "In Celebration of Percy Jackson\u2019s Birthday"
     }
+  ],
+  "24": [
+    {
+      "color": "Golden",
+      "description": "9 p.m. ET: Music-to-Light Spectacular In Partnership with Netflix and CAPE USA, and with Support from iHeartMedia, to Kick Off \u201cKPOP DEMON HUNTERS\u201d Golden Weekend"
+    },
+    {
+      "color": "Yellow And Blue",
+      "description": "In Honor of Ukrainian Independence Day in Partnership with the Consulate General of Ukraine in New York"
+    }
+  ],
+  "30": [
+    {
+      "color": "Red, White And Blue",
+      "description": "In Honor of Labor Day Weekend"
+    }
+  ],
+  "31": [
+    {
+      "color": "Red, White And Blue",
+      "description": "In Honor of Labor Day Weekend"
+    }
   ]
 }
