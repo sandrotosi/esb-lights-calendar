@@ -219,11 +219,13 @@ TRANSP:TRANSPARENT
 URL:https://www.esbnyc.com/about/tower-lights/calendar/202508
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ESB: Signature White
+SUMMARY:ESB: Golden
 DTSTART;VALUE=DATE:20250822
 SEQUENCE:0
 CLASS:PUBLIC
-DESCRIPTION:
+DESCRIPTION:9 p.m. ET: Music-to-Light Spectacular In Partnership with Netf
+ lix and CAPE USA\, and with Support from iHeartMedia\, to Kick Off “KPOP
+  DEMON HUNTERS” Golden Weekend
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 URL:https://www.esbnyc.com/about/tower-lights/calendar/202508
@@ -234,18 +236,6 @@ DTSTART;VALUE=DATE:20250823
 SEQUENCE:0
 CLASS:PUBLIC
 DESCRIPTION:
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-URL:https://www.esbnyc.com/about/tower-lights/calendar/202508
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ESB: Golden
-DTSTART;VALUE=DATE:20250824
-SEQUENCE:0
-CLASS:PUBLIC
-DESCRIPTION:9 p.m. ET: Music-to-Light Spectacular In Partnership with Netf
- lix and CAPE USA\, and with Support from iHeartMedia\, to Kick Off “KPOP
-  DEMON HUNTERS” Golden Weekend
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 URL:https://www.esbnyc.com/about/tower-lights/calendar/202508
