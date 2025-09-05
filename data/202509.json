@@ -5,16 +5,52 @@
       "description": "In Honor of Labor Day Weekend"
     }
   ],
+  "6": [
+    {
+      "color": "Green",
+      "description": "In Celebration of the New York Jets\u2019 Home Opener"
+    }
+  ],
+  "10": [
+    {
+      "color": "Blue",
+      "description": "In Celebration of New York Fashion Week in Partnership with KFN"
+    }
+  ],
   "11": [
     {
       "color": "Blue",
       "description": "In Memory of 9/11 in Partnership with The National September 11 Memorial & Museum"
     }
   ],
+  "15": [
+    {
+      "color": "Red, White And Green",
+      "description": "In Partnership with the Consulate General of Mexico in New York in Honor of Mexican Independence Day"
+    }
+  ],
+  "21": [
+    {
+      "color": "Blue",
+      "description": "In Celebration of the New York Giants\u2019 Home Opener"
+    }
+  ],
   "23": [
     {
       "color": "Light Blue",
       "description": "In Honor of the United Nations\u2019 80th Anniversary"
+    }
+  ],
+  "24": [
+    {
+      "color": "Blue",
+      "description": "In Honor of Clinton Global Initiative 2025 Annual Meeting"
+    }
+  ],
+  "26": [
+    {
+      "color": "Red, White And Blue",
+      "description": "In Celebration of the 2025 Ryder Cup"
     }
   ]
 }
