@@ -4,7 +4,7 @@
 #
 #    pip-compile
 #
-beautifulsoup4==4.14.0
+beautifulsoup4==4.14.2
     # via -r requirements.in
 certifi==2024.7.4
     # via requests
