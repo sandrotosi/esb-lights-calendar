@@ -9,11 +9,12 @@ URL:https://sandrotosi.github.io/esb-lights-calendar/esb.ics
 X-PUBLISHED-TTL:PT6H
 X-WR-TIMEZONE:UTC
 BEGIN:VEVENT
-SUMMARY:ESB: Signature White
+SUMMARY:ESB: Pink With A Ribbon Rotating In The Mast
 DTSTART;VALUE=DATE:20251001
 SEQUENCE:0
 CLASS:PUBLIC
-DESCRIPTION:
+DESCRIPTION:In Honor of Breast Cancer Awareness Month in Partnership with 
+ Estee Lauder Companies
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 URL:https://www.esbnyc.com/about/tower-lights/calendar/202510
