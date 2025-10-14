@@ -133,11 +133,11 @@ TRANSP:TRANSPARENT
 URL:https://www.esbnyc.com/about/tower-lights/calendar/202510
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ESB: Red\, White And Green
+SUMMARY:ESB: Yellow
 DTSTART;VALUE=DATE:20251013
 SEQUENCE:0
 CLASS:PUBLIC
-DESCRIPTION:In Honor of Columbus Day
+DESCRIPTION:To Celebrate Release of Israeli Hostages
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 URL:https://www.esbnyc.com/about/tower-lights/calendar/202510
