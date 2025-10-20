@@ -40,5 +40,23 @@
       "color": "Yellow",
       "description": "To Celebrate Release of Israeli Hostages"
     }
+  ],
+  "20": [
+    {
+      "color": "Orange",
+      "description": "In Celebration of Diwali"
+    }
+  ],
+  "22": [
+    {
+      "color": "Blue And Orange",
+      "description": "In Celebration of the New York Knicks' Home Opener"
+    }
+  ],
+  "31": [
+    {
+      "color": "Orange And Green",
+      "description": "In Celebration of Halloween"
+    }
   ]
 }
