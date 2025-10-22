@@ -203,11 +203,11 @@ TRANSP:TRANSPARENT
 URL:https://www.esbnyc.com/about/tower-lights/calendar/202510
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ESB: Orange
+SUMMARY:ESB: Signature White
 DTSTART;VALUE=DATE:20251020
 SEQUENCE:0
 CLASS:PUBLIC
-DESCRIPTION:In Celebration of Diwali
+DESCRIPTION:
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 URL:https://www.esbnyc.com/about/tower-lights/calendar/202510
