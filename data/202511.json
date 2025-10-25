@@ -1,1 +1,32 @@
-{}
+{
+  "4": [
+    {
+      "color": "Red",
+      "description": "In Celebration of the Sexiest Man Alive Announcement and its 40th Anniversary in Partnership with People"
+    }
+  ],
+  "6": [
+    {
+      "color": "Red And White With A Christmas Tree Swirling In The Mast",
+      "description": "In Partnership with the Radio City Rockettes in Celebration of the Opening Night of the Christmas Spectacular"
+    }
+  ],
+  "10": [
+    {
+      "color": "Red And White",
+      "description": "In Honor of Polish Independence Day in Partnership with the Consulate General of the Republic of Poland in New York"
+    }
+  ],
+  "11": [
+    {
+      "color": "Red, White And Blue",
+      "description": "In Honor of Veterans Day"
+    }
+  ],
+  "14": [
+    {
+      "color": "Blue",
+      "description": "In Honor of World Diabetes Day in Partnership with The Leona M. and Harry B. Helmsley Charitable Trust"
+    }
+  ]
+}
