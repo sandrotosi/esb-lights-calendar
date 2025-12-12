@@ -109,22 +109,22 @@ TRANSP:TRANSPARENT
 URL:https://www.esbnyc.com/about/tower-lights/calendar/202512
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ESB: Signature White
+SUMMARY:ESB: Neon Pink And Neon Yellow
 DTSTART;VALUE=DATE:20251211
 SEQUENCE:0
 CLASS:PUBLIC
-DESCRIPTION:
+DESCRIPTION:In Celebration of iHeartRadio Z100’s Jingle Ball Presented b
+ y Capital One
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 URL:https://www.esbnyc.com/about/tower-lights/calendar/202512
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ESB: Neon Pink And Neon Yellow
+SUMMARY:ESB: Signature White
 DTSTART;VALUE=DATE:20251212
 SEQUENCE:0
 CLASS:PUBLIC
-DESCRIPTION:In Celebration of iHeartRadio Z100’s Jingle Ball Presented b
- y Capital One
+DESCRIPTION:
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 URL:https://www.esbnyc.com/about/tower-lights/calendar/202512
