@@ -34,5 +34,17 @@
       "color": "Red, Black, And Green",
       "description": "In Honor of MLK Day"
     }
+  ],
+  "24": [
+    {
+      "color": "Snow Fall Effect",
+      "description": "Ahead of Expected NYC Winter Storm"
+    }
+  ],
+  "27": [
+    {
+      "color": "Yellow",
+      "description": "In Honor of Holocaust Remembrance Day"
+    }
   ]
 }
