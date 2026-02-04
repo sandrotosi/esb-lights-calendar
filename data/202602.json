@@ -4,5 +4,17 @@
       "color": "Red, Black, And Green",
       "description": "In Honor of Black History Month"
     }
+  ],
+  "3": [
+    {
+      "color": "Purple And Gold",
+      "description": "In Honor of the Westminster Kennel Club Dog Show"
+    }
+  ],
+  "6": [
+    {
+      "color": "Rotation Of Countries\u2019 Flags",
+      "description": "In Honor of Olympics Opening Ceremony"
+    }
   ]
 }
