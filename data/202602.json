@@ -16,5 +16,29 @@
       "color": "Rotation Of Countries\u2019 Flags",
       "description": "In Honor of Olympics Opening Ceremony"
     }
+  ],
+  "8": [
+    {
+      "color": "Colors Of Winning Team",
+      "description": "In Honor of Super Bowl LX"
+    }
+  ],
+  "10": [
+    {
+      "color": "Blue And Gold",
+      "description": "To Kick Off NYFW"
+    }
+  ],
+  "14": [
+    {
+      "color": "Pink Heartbeat",
+      "description": "In Celebration of Valentine\u2019s Day"
+    }
+  ],
+  "16": [
+    {
+      "color": "Red",
+      "description": "In Celebration of Lunar New Year"
+    }
   ]
 }
