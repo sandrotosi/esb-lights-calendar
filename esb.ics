@@ -169,6 +169,16 @@ TRANSP:TRANSPARENT
 URL:https://www.esbnyc.com/about/tower-lights/calendar/202602
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:ESB: Red\, White\, And Blue
+DTSTART;VALUE=DATE:20260216
+SEQUENCE:0
+CLASS:PUBLIC
+DESCRIPTION:From 9 p.m. to 2 a.m. - In Honor of Presidents Day
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.esbnyc.com/about/tower-lights/calendar/202602
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:ESB: Signature White
 DTSTART;VALUE=DATE:20260217
 SEQUENCE:0
@@ -189,11 +199,11 @@ TRANSP:TRANSPARENT
 URL:https://www.esbnyc.com/about/tower-lights/calendar/202602
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ESB: Signature White
+SUMMARY:ESB: Red\, White\, And Blue
 DTSTART;VALUE=DATE:20260219
 SEQUENCE:0
 CLASS:PUBLIC
-DESCRIPTION:
+DESCRIPTION:To Celebrate U.S. Women’s Hockey Team Olympic Gold Medal Win
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 URL:https://www.esbnyc.com/about/tower-lights/calendar/202602
