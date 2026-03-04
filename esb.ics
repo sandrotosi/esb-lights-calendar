@@ -29,11 +29,12 @@ TRANSP:TRANSPARENT
 URL:https://www.esbnyc.com/about/tower-lights/calendar/202603
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ESB: Signature White
+SUMMARY:ESB: Rotating Colors Of The Flags Of The United States\, Canada\, 
+ And Mexico
 DTSTART;VALUE=DATE:20260303
 SEQUENCE:0
 CLASS:PUBLIC
-DESCRIPTION:
+DESCRIPTION:To Mark 100 Days From the Start of the FIFA World Cup 2026™
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 URL:https://www.esbnyc.com/about/tower-lights/calendar/202603
