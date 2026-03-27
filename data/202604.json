@@ -1,4 +1,10 @@
 {
+  "1": [
+    {
+      "color": "Blue, Teal, Purple And Pink",
+      "description": "In Honor of World Autism Month in Partnership with Autism Speaks"
+    }
+  ],
   "2": [
     {
       "color": "Blue And White Pinstripes",
@@ -15,6 +21,12 @@
     {
       "color": "Orange",
       "description": "In Celebration of the WNBA Draft and the 30th Anniversary of WNBA"
+    }
+  ],
+  "20": [
+    {
+      "color": "Orange",
+      "description": "In Partnership with Progyny and RESOLVE in Honor of National Infertility Awareness Week"
     }
   ]
 }
