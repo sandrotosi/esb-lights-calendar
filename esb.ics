@@ -60,11 +60,23 @@ TRANSP:TRANSPARENT
 URL:https://www.esbnyc.com/about/tower-lights/calendar/202604
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ESB: Signature White
+SUMMARY:ESB: Blue And Yellow
+DTSTART;VALUE=DATE:20260405
+SEQUENCE:0
+CLASS:PUBLIC
+DESCRIPTION:From 8 p.m. - 10 p.m.: To Celebrate UCLA’s Historic NCAA Wom
+ en’s Basketball Championship Win
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.esbnyc.com/about/tower-lights/calendar/202604
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ESB: Blue And Maize
 DTSTART;VALUE=DATE:20260406
 SEQUENCE:0
 CLASS:PUBLIC
-DESCRIPTION:
+DESCRIPTION:To Celebrate University of Michigan’s NCAA Men’s Basketbal
+ l Championship Win
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 URL:https://www.esbnyc.com/about/tower-lights/calendar/202604
