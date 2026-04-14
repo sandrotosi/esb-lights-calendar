@@ -1,1 +1,38 @@
-{}
+{
+  "1": [
+    {
+      "color": "Multi-Color Sparkle",
+      "description": "In Celebration of ESB\u2019s 95th Birthday"
+    }
+  ],
+  "5": [
+    {
+      "color": "Pink",
+      "description": "In Honor of Teacher Appreciation Week in Partnership with EF Education First"
+    }
+  ],
+  "13": [
+    {
+      "color": "Dynamic Purple And White",
+      "description": "In Honor of NYU Commencement"
+    }
+  ],
+  "23": [
+    {
+      "color": "Red, White, And Blue",
+      "description": "In Honor of Memorial Day"
+    }
+  ],
+  "24": [
+    {
+      "color": "Red, White, And Blue",
+      "description": "In Honor of Memorial Day"
+    }
+  ],
+  "25": [
+    {
+      "color": "Red, White, And Blue",
+      "description": "In Honor of Memorial Day"
+    }
+  ]
+}

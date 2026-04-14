@@ -44,5 +44,17 @@
       "color": "Orange",
       "description": "In Partnership with Progyny and RESOLVE in Honor of National Infertility Awareness Week"
     }
+  ],
+  "22": [
+    {
+      "color": "Green",
+      "description": "In Celebration of Earth Day in Partnership with the Arbor Day Foundation and Peanuts"
+    }
+  ],
+  "28": [
+    {
+      "color": "Purple And Blue",
+      "description": "In Honor of Police Memorial Day"
+    }
   ]
 }
