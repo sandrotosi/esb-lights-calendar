@@ -17,6 +17,12 @@
       "description": "In Honor of NYU Commencement"
     }
   ],
+  "20": [
+    {
+      "color": "Columbia Blue",
+      "description": "In Honor of Columbia University's Commencement"
+    }
+  ],
   "23": [
     {
       "color": "Red, White, And Blue",
@@ -33,6 +39,12 @@
     {
       "color": "Red, White, And Blue",
       "description": "In Honor of Memorial Day"
+    }
+  ],
+  "27": [
+    {
+      "color": "Yellow",
+      "description": "In Honor of HYROX\u2019s Return to NYC"
     }
   ]
 }
