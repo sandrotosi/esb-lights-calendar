@@ -26,5 +26,5 @@ typing-extensions==4.12.2
     # via beautifulsoup4
 tzdata==2025.3
     # via icalendar
-urllib3==2.6.3
+urllib3==2.7.0
     # via requests
