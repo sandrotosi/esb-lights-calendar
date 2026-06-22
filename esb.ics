@@ -180,21 +180,32 @@ TRANSP:TRANSPARENT
 URL:https://www.esbnyc.com/about/tower-lights/calendar/202606
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ESB: Signature White
+SUMMARY:ESB: Blue And Orange Dynamic Lights With Knicks Logo Rotating In T
+ he Mast
 DTSTART;VALUE=DATE:20260618
 SEQUENCE:0
 CLASS:PUBLIC
-DESCRIPTION:
+DESCRIPTION:In Celebration of the New York Knicks Championship Parade
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 URL:https://www.esbnyc.com/about/tower-lights/calendar/202606
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ESB: Signature White
+SUMMARY:ESB: Red\, Black\, And Green
 DTSTART;VALUE=DATE:20260619
 SEQUENCE:0
 CLASS:PUBLIC
-DESCRIPTION:
+DESCRIPTION:In Honor of Juneteenth
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.esbnyc.com/about/tower-lights/calendar/202606
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ESB: Red\, White\, And Blue
+DTSTART;VALUE=DATE:20260619
+SEQUENCE:0
+CLASS:PUBLIC
+DESCRIPTION:Sunset to 9:30 p.m.: In Celebration of USA vs. Australia Match
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 URL:https://www.esbnyc.com/about/tower-lights/calendar/202606
