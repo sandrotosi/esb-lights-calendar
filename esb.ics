@@ -201,6 +201,17 @@ TRANSP:TRANSPARENT
 URL:https://www.esbnyc.com/about/tower-lights/calendar/202606
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:ESB: Red\, White\, And Blue
+DTSTART;VALUE=DATE:20260619
+SEQUENCE:0
+CLASS:PUBLIC
+DESCRIPTION:Sunset to 9:30 p.m.: In Celebration of Team USA's Victory vs. 
+ Australia
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.esbnyc.com/about/tower-lights/calendar/202606
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:ESB: Signature White
 DTSTART;VALUE=DATE:20260620
 SEQUENCE:0
@@ -252,11 +263,11 @@ TRANSP:TRANSPARENT
 URL:https://www.esbnyc.com/about/tower-lights/calendar/202606
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ESB: Signature White
+SUMMARY:ESB: Red\, White\, And Blue
 DTSTART;VALUE=DATE:20260625
 SEQUENCE:0
 CLASS:PUBLIC
-DESCRIPTION:
+DESCRIPTION:In Support of Team USA's Match vs. Türkiye
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 URL:https://www.esbnyc.com/about/tower-lights/calendar/202606

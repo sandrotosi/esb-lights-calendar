@@ -63,12 +63,22 @@
     {
       "color": "Red, Black, And Green",
       "description": "In Honor of Juneteenth"
+    },
+    {
+      "color": "Red, White, And Blue",
+      "description": "Sunset to 9:30 p.m.: In Celebration of Team USA's Victory vs. Australia"
     }
   ],
   "22": [
     {
       "color": "Colors Of The Winning Team",
       "description": "In Celebration of the Winner of the Norway v. Senegal Match at MetLife Stadium"
+    }
+  ],
+  "25": [
+    {
+      "color": "Red, White, And Blue",
+      "description": "In Support of Team USA's Match vs. T\u00fcrkiye"
     }
   ],
   "27": [
