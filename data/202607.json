@@ -1,4 +1,14 @@
 {
+  "1": [
+    {
+      "color": "Red, White, And Blue",
+      "description": "In Support of Team USA's Match vs. Bosnia-Herzegovina"
+    },
+    {
+      "color": "Red And White",
+      "description": "Sunset to 9:31 p.m.: In Honor of Canada Day"
+    }
+  ],
   "3": [
     {
       "color": "Red, White, And Blue",
@@ -15,6 +25,12 @@
     {
       "color": "Red, White, And Blue",
       "description": "In Honor of Fourth of July"
+    }
+  ],
+  "18": [
+    {
+      "color": "Blue And Yellow",
+      "description": "In Partnership with the Consulate General of Sweden for Zlatan Takes Over New York"
     }
   ]
 }
