@@ -39,11 +39,12 @@ TRANSP:TRANSPARENT
 URL:https://www.esbnyc.com/about/tower-lights/calendar/202607
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ESB: Red\, White\, And Blue
+SUMMARY:ESB: Light Blue Sparkle
 DTSTART;VALUE=DATE:20260703
 SEQUENCE:0
 CLASS:PUBLIC
-DESCRIPTION:In Honor of Fourth of July
+DESCRIPTION:In Celebration of Taylor Swift and Travis Kelce's Wedding at M
+ adison Square Garden
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 URL:https://www.esbnyc.com/about/tower-lights/calendar/202607
