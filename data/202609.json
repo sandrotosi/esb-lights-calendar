@@ -16,5 +16,23 @@
       "color": "Red, White, And Blue",
       "description": "In Honor of Labor Day"
     }
+  ],
+  "11": [
+    {
+      "color": "Blue",
+      "description": "In Memory of September 11, 2001 in Partnership with the 911 Memorial & Museum"
+    }
+  ],
+  "13": [
+    {
+      "color": "Blue",
+      "description": "In Honor of the New York Giants\u2019 Home Opener"
+    }
+  ],
+  "19": [
+    {
+      "color": "Green",
+      "description": "In Honor of the New York Jets\u2019 Home Opener"
+    }
   ]
 }
