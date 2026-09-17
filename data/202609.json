@@ -41,10 +41,22 @@
       "description": "In Honor of Mexico Independence Day"
     }
   ],
+  "18": [
+    {
+      "color": "Blue",
+      "description": "In Honor of KPMG Leadership Development Day in Partnership with UNDERRATED Golf"
+    }
+  ],
   "19": [
     {
       "color": "Green",
       "description": "In Honor of the New York Jets\u2019 Home Opener"
+    }
+  ],
+  "23": [
+    {
+      "color": "Blue",
+      "description": "In Honor of the Annual Clinton Global Initiative Meeting and Climate Week in Partnership with the Clinton Foundation"
     }
   ]
 }
