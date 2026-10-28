@@ -1,4 +1,10 @@
 {
+  "4": [
+    {
+      "color": "Red And White With A Christmas Tree In The Mast",
+      "description": "In Honor of the Radio City Rockettes\u2019 Opening Night of the 2026 Christmas Spectacular"
+    }
+  ],
   "6": [
     {
       "color": "Gold",
@@ -7,8 +13,20 @@
   ],
   "11": [
     {
-      "color": "Red, White And Blue",
+      "color": "Red, White, And Blue",
       "description": "In Honor of Veterans Day"
+    }
+  ],
+  "12": [
+    {
+      "color": "Pink",
+      "description": "In Celebration of the 30th Anniversary of Lil Kim\u2019s Debut Album HARD CORE"
+    }
+  ],
+  "19": [
+    {
+      "color": "Pink, Teal, Brown, And Gold",
+      "description": "In Celebration of the Premiere of Hershey in Partnership with the Hershey School"
     }
   ],
   "26": [

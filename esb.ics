@@ -304,7 +304,7 @@ TRANSP:TRANSPARENT
 URL:https://www.esbnyc.com/about/tower-lights/calendar/202610
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ESB: Gold/Green
+SUMMARY:ESB: Green And Gold
 DTSTART;VALUE=DATE:20261029
 SEQUENCE:0
 CLASS:PUBLIC
@@ -364,11 +364,12 @@ TRANSP:TRANSPARENT
 URL:https://www.esbnyc.com/about/tower-lights/calendar/202611
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ESB: Signature White
+SUMMARY:ESB: Red And White With A Christmas Tree In The Mast
 DTSTART;VALUE=DATE:20261104
 SEQUENCE:0
 CLASS:PUBLIC
-DESCRIPTION:
+DESCRIPTION:In Honor of the Radio City Rockettes’ Opening Night of the 2
+ 026 Christmas Spectacular
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 URL:https://www.esbnyc.com/about/tower-lights/calendar/202611
@@ -435,7 +436,7 @@ TRANSP:TRANSPARENT
 URL:https://www.esbnyc.com/about/tower-lights/calendar/202611
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ESB: Red\, White And Blue
+SUMMARY:ESB: Red\, White\, And Blue
 DTSTART;VALUE=DATE:20261111
 SEQUENCE:0
 CLASS:PUBLIC
@@ -445,11 +446,12 @@ TRANSP:TRANSPARENT
 URL:https://www.esbnyc.com/about/tower-lights/calendar/202611
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ESB: Signature White
+SUMMARY:ESB: Pink
 DTSTART;VALUE=DATE:20261112
 SEQUENCE:0
 CLASS:PUBLIC
-DESCRIPTION:
+DESCRIPTION:In Celebration of the 30th Anniversary of Lil Kim’s Debut Al
+ bum HARD CORE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 URL:https://www.esbnyc.com/about/tower-lights/calendar/202611
@@ -515,11 +517,12 @@ TRANSP:TRANSPARENT
 URL:https://www.esbnyc.com/about/tower-lights/calendar/202611
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ESB: Signature White
+SUMMARY:ESB: Pink\, Teal\, Brown\, And Gold
 DTSTART;VALUE=DATE:20261119
 SEQUENCE:0
 CLASS:PUBLIC
-DESCRIPTION:
+DESCRIPTION:In Celebration of the Premiere of Hershey in Partnership with 
+ the Hershey School
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 URL:https://www.esbnyc.com/about/tower-lights/calendar/202611
