@@ -101,11 +101,13 @@ TRANSP:TRANSPARENT
 URL:https://www.esbnyc.com/about/tower-lights/calendar/202611
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ESB: Signature White
+SUMMARY:ESB: Hot Pink
 DTSTART;VALUE=DATE:20261110
 SEQUENCE:0
 CLASS:PUBLIC
-DESCRIPTION:
+DESCRIPTION:In Celebration of the Release of Trisha Paytas’ Memoir “Cr
+ ying on the Kitchen Floor” in Partnership with Grand Central Publishing 
+ of Hachette Book Group
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 URL:https://www.esbnyc.com/about/tower-lights/calendar/202611
@@ -192,7 +194,7 @@ TRANSP:TRANSPARENT
 URL:https://www.esbnyc.com/about/tower-lights/calendar/202611
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ESB: Pink\, Teal\, Brown\, And Gold
+SUMMARY:ESB: Teal\, Brown\, And Gold
 DTSTART;VALUE=DATE:20261119
 SEQUENCE:0
 CLASS:PUBLIC
